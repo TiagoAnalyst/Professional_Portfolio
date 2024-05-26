@@ -1,6 +1,6 @@
 # Welcome to my first dashboard created: Recycling Centre  
 
-This dashboard summarizes the main KPIs for each waste category managed on this recycling centre. To put it into context, this recycling centre is composed by two distinct areas with different features: 
+This dashboard summarizes the main KPIs for each waste category managed on this recycling centre (**Dashboard - MAIN**). To put it into context, this recycling centre is composed by two distinct areas with different features: 
 
 - **Household waste Recycling centre (HWRC)**: used by residents & charities 
 - **waste Transfer Station (TS)** : used by businesses and waste collections vehicles
