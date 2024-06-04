@@ -14,6 +14,6 @@ The number of waste streams in the area for residents is considerebly higher com
 The objective of this dashboard was to calculate detailed environmental and operational KPIs for the site as well as for each area.
 
 ### Main outcomes (insights) ###
-- Operational processes needs to be reviewed at the TS to increase the recycling rate (e.g. increase the diversion of recyclables from residual waste)
+- Operational processes needs to be reviewed at the TS to increase the recycling rate (e.g. increase the diversion of recyclables from residual waste).However, it's important to consider that the Transfer Station area handles 10x more waste and it could limit the efficiency of new waste segregation processes.
 - Financial costs with waste collection contracts can be minimized if waste collection vehicles payloads are always maximized
 - An increase in waste streams at the HWRC or segregation of recyclables from residual waste could reduce the percentage of "Energy from Waste"
