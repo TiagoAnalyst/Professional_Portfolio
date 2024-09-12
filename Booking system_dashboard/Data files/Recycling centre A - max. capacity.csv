@@ -1,778 +1,1090 @@
-Date,Vehicle type,Number of bookings,Number of spaces
-01/04/2023,Recycling centre A (cars / small vans),246,320
-01/04/2023,Recycling centre A (medium / large vans),8,17
-01/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-02/04/2023,Recycling centre A (cars / small vans),266,320
-02/04/2023,Recycling centre A (medium / large vans),24,17
-02/04/2023,Recycling centre A (pedestrian / bicycle),3,15
-03/04/2023,Recycling centre A (cars / small vans),203,320
-03/04/2023,Recycling centre A (medium / large vans),3,17
-03/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-06/04/2023,Recycling centre A (cars / small vans),223,320
-06/04/2023,Recycling centre A (medium / large vans),24,17
-06/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-07/04/2023,Recycling centre A (cars / small vans),289,320
-07/04/2023,Recycling centre A (medium / large vans),22,17
-07/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-08/04/2023,Recycling centre A (cars / small vans),242,320
-08/04/2023,Recycling centre A (medium / large vans),24,17
-08/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-09/04/2023,Recycling centre A (cars / small vans),263,320
-09/04/2023,Recycling centre A (medium / large vans),23,17
-09/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-10/04/2023,Recycling centre A (cars / small vans),292,320
-10/04/2023,Recycling centre A (medium / large vans),20,17
-10/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-13/04/2023,Recycling centre A (cars / small vans),202,320
-13/04/2023,Recycling centre A (medium / large vans),24,17
-13/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/04/2023,Recycling centre A (cars / small vans),220,320
-14/04/2023,Recycling centre A (medium / large vans),8,17
-14/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-15/04/2023,Recycling centre A (cars / small vans),222,320
-15/04/2023,Recycling centre A (medium / large vans),26,17
-15/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-16/04/2023,Recycling centre A (cars / small vans),280,320
-16/04/2023,Recycling centre A (medium / large vans),23,17
-16/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-17/04/2023,Recycling centre A (cars / small vans),222,320
-17/04/2023,Recycling centre A (medium / large vans),23,17
-17/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-20/04/2023,Recycling centre A (cars / small vans),223,320
-20/04/2023,Recycling centre A (medium / large vans),26,17
-20/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-21/04/2023,Recycling centre A (cars / small vans),226,320
-21/04/2023,Recycling centre A (medium / large vans),3,17
-21/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-22/04/2023,Recycling centre A (cars / small vans),206,320
-22/04/2023,Recycling centre A (medium / large vans),26,17
-22/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-23/04/2023,Recycling centre A (cars / small vans),239,320
-23/04/2023,Recycling centre A (medium / large vans),24,17
-23/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-24/04/2023,Recycling centre A (cars / small vans),223,320
-24/04/2023,Recycling centre A (medium / large vans),9,17
-24/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-27/04/2023,Recycling centre A (cars / small vans),234,320
-27/04/2023,Recycling centre A (medium / large vans),22,17
-27/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-28/04/2023,Recycling centre A (cars / small vans),208,320
-28/04/2023,Recycling centre A (medium / large vans),20,17
-28/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-29/04/2023,Recycling centre A (cars / small vans),226,320
-29/04/2023,Recycling centre A (medium / large vans),24,17
-29/04/2023,Recycling centre A (pedestrian / bicycle),0,15
-30/04/2023,Recycling centre A (cars / small vans),242,320
-30/04/2023,Recycling centre A (medium / large vans),24,17
-30/04/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/05/2023,Recycling centre A (cars / small vans),293,320
-01/05/2023,Recycling centre A (medium / large vans),26,17
-01/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-04/05/2023,Recycling centre A (cars / small vans),248,320
-04/05/2023,Recycling centre A (medium / large vans),24,17
-04/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-05/05/2023,Recycling centre A (cars / small vans),232,320
-05/05/2023,Recycling centre A (medium / large vans),3,17
-05/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-07/05/2023,Recycling centre A (cars / small vans),260,320
-07/05/2023,Recycling centre A (medium / large vans),23,17
-07/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-08/05/2023,Recycling centre A (cars / small vans),269,320
-08/05/2023,Recycling centre A (medium / large vans),23,17
-08/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-11/05/2023,Recycling centre A (cars / small vans),236,320
-11/05/2023,Recycling centre A (medium / large vans),20,17
-11/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-12/05/2023,Recycling centre A (cars / small vans),223,320
-12/05/2023,Recycling centre A (medium / large vans),20,17
-12/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-13/05/2023,Recycling centre A (cars / small vans),283,320
-13/05/2023,Recycling centre A (medium / large vans),24,17
-13/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/05/2023,Recycling centre A (cars / small vans),283,320
-14/05/2023,Recycling centre A (medium / large vans),26,17
-14/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-15/05/2023,Recycling centre A (cars / small vans),236,320
-15/05/2023,Recycling centre A (medium / large vans),26,17
-15/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-18/05/2023,Recycling centre A (cars / small vans),262,320
-18/05/2023,Recycling centre A (medium / large vans),26,17
-18/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-19/05/2023,Recycling centre A (cars / small vans),234,320
-19/05/2023,Recycling centre A (medium / large vans),22,17
-19/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-20/05/2023,Recycling centre A (cars / small vans),240,320
-20/05/2023,Recycling centre A (medium / large vans),26,17
-20/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-21/05/2023,Recycling centre A (cars / small vans),328,320
-21/05/2023,Recycling centre A (medium / large vans),26,17
-21/05/2023,Recycling centre A (pedestrian / bicycle),6,15
-22/05/2023,Recycling centre A (cars / small vans),263,320
-22/05/2023,Recycling centre A (medium / large vans),22,17
-22/05/2023,Recycling centre A (pedestrian / bicycle),0,15
-25/05/2023,Recycling centre A (cars / small vans),220,320
-25/05/2023,Recycling centre A (medium / large vans),26,17
-25/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-26/05/2023,Recycling centre A (cars / small vans),238,320
-26/05/2023,Recycling centre A (medium / large vans),22,17
-26/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-27/05/2023,Recycling centre A (cars / small vans),242,320
-27/05/2023,Recycling centre A (medium / large vans),26,17
-27/05/2023,Recycling centre A (pedestrian / bicycle),4,15
-28/05/2023,Recycling centre A (cars / small vans),282,320
-28/05/2023,Recycling centre A (medium / large vans),26,17
-28/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-29/05/2023,Recycling centre A (cars / small vans),308,320
-29/05/2023,Recycling centre A (medium / large vans),26,17
-29/05/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/06/2023,Recycling centre A (cars / small vans),304,320
-01/06/2023,Recycling centre A (medium / large vans),26,17
-01/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-02/06/2023,Recycling centre A (cars / small vans),204,320
-02/06/2023,Recycling centre A (medium / large vans),24,17
-02/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-03/06/2023,Recycling centre A (cars / small vans),269,320
-03/06/2023,Recycling centre A (medium / large vans),26,17
-03/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-04/06/2023,Recycling centre A (cars / small vans),323,320
-04/06/2023,Recycling centre A (medium / large vans),26,17
-04/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-05/06/2023,Recycling centre A (cars / small vans),239,320
-05/06/2023,Recycling centre A (medium / large vans),26,17
-05/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-08/06/2023,Recycling centre A (cars / small vans),242,320
-08/06/2023,Recycling centre A (medium / large vans),26,17
-08/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-09/06/2023,Recycling centre A (cars / small vans),243,320
-09/06/2023,Recycling centre A (medium / large vans),26,17
-09/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-10/06/2023,Recycling centre A (cars / small vans),248,320
-10/06/2023,Recycling centre A (medium / large vans),26,17
-10/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-11/06/2023,Recycling centre A (cars / small vans),269,320
-11/06/2023,Recycling centre A (medium / large vans),26,17
-11/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-12/06/2023,Recycling centre A (cars / small vans),240,320
-12/06/2023,Recycling centre A (medium / large vans),9,17
-12/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-15/06/2023,Recycling centre A (cars / small vans),222,320
-15/06/2023,Recycling centre A (medium / large vans),26,17
-15/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-16/06/2023,Recycling centre A (cars / small vans),249,320
-16/06/2023,Recycling centre A (medium / large vans),26,17
-16/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-17/06/2023,Recycling centre A (cars / small vans),220,320
-17/06/2023,Recycling centre A (medium / large vans),26,17
-17/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-18/06/2023,Recycling centre A (cars / small vans),266,320
-18/06/2023,Recycling centre A (medium / large vans),24,17
-18/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-19/06/2023,Recycling centre A (cars / small vans),226,320
-19/06/2023,Recycling centre A (medium / large vans),26,17
-19/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-22/06/2023,Recycling centre A (cars / small vans),293,320
-22/06/2023,Recycling centre A (medium / large vans),22,17
-22/06/2023,Recycling centre A (pedestrian / bicycle),3,15
-23/06/2023,Recycling centre A (cars / small vans),266,320
-23/06/2023,Recycling centre A (medium / large vans),22,17
-23/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-24/06/2023,Recycling centre A (cars / small vans),239,320
-24/06/2023,Recycling centre A (medium / large vans),23,17
-24/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-25/06/2023,Recycling centre A (cars / small vans),243,320
-25/06/2023,Recycling centre A (medium / large vans),24,17
-25/06/2023,Recycling centre A (pedestrian / bicycle),0,15
-26/06/2023,Recycling centre A (cars / small vans),243,320
-26/06/2023,Recycling centre A (medium / large vans),20,17
-26/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-29/06/2023,Recycling centre A (cars / small vans),296,320
-29/06/2023,Recycling centre A (medium / large vans),26,17
-29/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-30/06/2023,Recycling centre A (cars / small vans),223,320
-30/06/2023,Recycling centre A (medium / large vans),26,17
-30/06/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/07/2023,Recycling centre A (cars / small vans),289,320
-01/07/2023,Recycling centre A (medium / large vans),26,17
-01/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-02/07/2023,Recycling centre A (cars / small vans),262,320
-02/07/2023,Recycling centre A (medium / large vans),26,17
-02/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-03/07/2023,Recycling centre A (cars / small vans),244,320
-03/07/2023,Recycling centre A (medium / large vans),3,17
-03/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-06/07/2023,Recycling centre A (cars / small vans),230,320
-06/07/2023,Recycling centre A (medium / large vans),22,17
-06/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-07/07/2023,Recycling centre A (cars / small vans),263,320
-07/07/2023,Recycling centre A (medium / large vans),8,17
-07/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-08/07/2023,Recycling centre A (cars / small vans),202,320
-08/07/2023,Recycling centre A (medium / large vans),22,17
-08/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-09/07/2023,Recycling centre A (cars / small vans),229,320
-09/07/2023,Recycling centre A (medium / large vans),24,17
-09/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-10/07/2023,Recycling centre A (cars / small vans),239,320
-10/07/2023,Recycling centre A (medium / large vans),20,17
-10/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-13/07/2023,Recycling centre A (cars / small vans),204,320
-13/07/2023,Recycling centre A (medium / large vans),22,17
-13/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/07/2023,Recycling centre A (cars / small vans),223,320
-14/07/2023,Recycling centre A (medium / large vans),20,17
-14/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-15/07/2023,Recycling centre A (cars / small vans),286,320
-15/07/2023,Recycling centre A (medium / large vans),9,17
-15/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-16/07/2023,Recycling centre A (cars / small vans),263,320
-16/07/2023,Recycling centre A (medium / large vans),9,17
-16/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-17/07/2023,Recycling centre A (cars / small vans),226,320
-17/07/2023,Recycling centre A (medium / large vans),6,17
-17/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-20/07/2023,Recycling centre A (cars / small vans),222,320
-20/07/2023,Recycling centre A (medium / large vans),24,17
-20/07/2023,Recycling centre A (pedestrian / bicycle),3,15
-21/07/2023,Recycling centre A (cars / small vans),266,320
-21/07/2023,Recycling centre A (medium / large vans),23,17
-21/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-22/07/2023,Recycling centre A (cars / small vans),243,320
-22/07/2023,Recycling centre A (medium / large vans),26,17
-22/07/2023,Recycling centre A (pedestrian / bicycle),4,15
-23/07/2023,Recycling centre A (cars / small vans),223,320
-23/07/2023,Recycling centre A (medium / large vans),9,17
-23/07/2023,Recycling centre A (pedestrian / bicycle),4,15
-24/07/2023,Recycling centre A (cars / small vans),246,320
-24/07/2023,Recycling centre A (medium / large vans),8,17
-24/07/2023,Recycling centre A (pedestrian / bicycle),0,15
-27/07/2023,Recycling centre A (cars / small vans),233,320
-27/07/2023,Recycling centre A (medium / large vans),22,17
-27/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-28/07/2023,Recycling centre A (cars / small vans),264,320
-28/07/2023,Recycling centre A (medium / large vans),22,17
-28/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-29/07/2023,Recycling centre A (cars / small vans),220,320
-29/07/2023,Recycling centre A (medium / large vans),26,17
-29/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-30/07/2023,Recycling centre A (cars / small vans),323,320
-30/07/2023,Recycling centre A (medium / large vans),26,17
-30/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-31/07/2023,Recycling centre A (cars / small vans),242,320
-31/07/2023,Recycling centre A (medium / large vans),24,17
-31/07/2023,Recycling centre A (pedestrian / bicycle),2,15
-03/08/2023,Recycling centre A (cars / small vans),209,320
-03/08/2023,Recycling centre A (medium / large vans),24,17
-03/08/2023,Recycling centre A (pedestrian / bicycle),3,15
-04/08/2023,Recycling centre A (cars / small vans),240,320
-04/08/2023,Recycling centre A (medium / large vans),22,17
-04/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-05/08/2023,Recycling centre A (cars / small vans),292,320
-05/08/2023,Recycling centre A (medium / large vans),23,17
-05/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-06/08/2023,Recycling centre A (cars / small vans),228,320
-06/08/2023,Recycling centre A (medium / large vans),26,17
-06/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-07/08/2023,Recycling centre A (cars / small vans),233,320
-07/08/2023,Recycling centre A (medium / large vans),26,17
-07/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-10/08/2023,Recycling centre A (cars / small vans),244,320
-10/08/2023,Recycling centre A (medium / large vans),24,17
-10/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-11/08/2023,Recycling centre A (cars / small vans),209,320
-11/08/2023,Recycling centre A (medium / large vans),8,17
-11/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-12/08/2023,Recycling centre A (cars / small vans),268,320
-12/08/2023,Recycling centre A (medium / large vans),24,17
-12/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-13/08/2023,Recycling centre A (cars / small vans),322,320
-13/08/2023,Recycling centre A (medium / large vans),24,17
-13/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/08/2023,Recycling centre A (cars / small vans),266,320
-14/08/2023,Recycling centre A (medium / large vans),24,17
-14/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-17/08/2023,Recycling centre A (cars / small vans),238,320
-17/08/2023,Recycling centre A (medium / large vans),26,17
-17/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-18/08/2023,Recycling centre A (cars / small vans),296,320
-18/08/2023,Recycling centre A (medium / large vans),20,17
-18/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-19/08/2023,Recycling centre A (cars / small vans),222,320
-19/08/2023,Recycling centre A (medium / large vans),26,17
-19/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-20/08/2023,Recycling centre A (cars / small vans),262,320
-20/08/2023,Recycling centre A (medium / large vans),26,17
-20/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-21/08/2023,Recycling centre A (cars / small vans),292,320
-21/08/2023,Recycling centre A (medium / large vans),26,17
-21/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-24/08/2023,Recycling centre A (cars / small vans),234,320
-24/08/2023,Recycling centre A (medium / large vans),26,17
-24/08/2023,Recycling centre A (pedestrian / bicycle),0,15
-25/08/2023,Recycling centre A (cars / small vans),288,320
-25/08/2023,Recycling centre A (medium / large vans),26,17
-25/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-26/08/2023,Recycling centre A (cars / small vans),233,320
-26/08/2023,Recycling centre A (medium / large vans),26,17
-26/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-27/08/2023,Recycling centre A (cars / small vans),223,320
-27/08/2023,Recycling centre A (medium / large vans),26,17
-27/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-28/08/2023,Recycling centre A (cars / small vans),222,320
-28/08/2023,Recycling centre A (medium / large vans),26,17
-28/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-31/08/2023,Recycling centre A (cars / small vans),289,320
-31/08/2023,Recycling centre A (medium / large vans),26,17
-31/08/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/09/2023,Recycling centre A (cars / small vans),246,320
-01/09/2023,Recycling centre A (medium / large vans),26,17
-01/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-02/09/2023,Recycling centre A (cars / small vans),238,320
-02/09/2023,Recycling centre A (medium / large vans),26,17
-02/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-03/09/2023,Recycling centre A (cars / small vans),328,320
-03/09/2023,Recycling centre A (medium / large vans),26,17
-03/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-04/09/2023,Recycling centre A (cars / small vans),263,320
-04/09/2023,Recycling centre A (medium / large vans),23,17
-04/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-07/09/2023,Recycling centre A (cars / small vans),229,320
-07/09/2023,Recycling centre A (medium / large vans),23,17
-07/09/2023,Recycling centre A (pedestrian / bicycle),0,15
-08/09/2023,Recycling centre A (cars / small vans),260,320
-08/09/2023,Recycling centre A (medium / large vans),23,17
-08/09/2023,Recycling centre A (pedestrian / bicycle),0,15
-09/09/2023,Recycling centre A (cars / small vans),288,320
-09/09/2023,Recycling centre A (medium / large vans),26,17
-09/09/2023,Recycling centre A (pedestrian / bicycle),3,15
-10/09/2023,Recycling centre A (cars / small vans),283,320
-10/09/2023,Recycling centre A (medium / large vans),26,17
-10/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-11/09/2023,Recycling centre A (cars / small vans),262,320
-11/09/2023,Recycling centre A (medium / large vans),24,17
-11/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/09/2023,Recycling centre A (cars / small vans),223,320
-14/09/2023,Recycling centre A (medium / large vans),26,17
-14/09/2023,Recycling centre A (pedestrian / bicycle),4,15
-15/09/2023,Recycling centre A (cars / small vans),268,320
-15/09/2023,Recycling centre A (medium / large vans),24,17
-15/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-16/09/2023,Recycling centre A (cars / small vans),260,320
-16/09/2023,Recycling centre A (medium / large vans),24,17
-16/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-17/09/2023,Recycling centre A (cars / small vans),336,320
-17/09/2023,Recycling centre A (medium / large vans),26,17
-17/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-18/09/2023,Recycling centre A (cars / small vans),226,320
-18/09/2023,Recycling centre A (medium / large vans),24,17
-18/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-21/09/2023,Recycling centre A (cars / small vans),262,320
-21/09/2023,Recycling centre A (medium / large vans),26,17
-21/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-22/09/2023,Recycling centre A (cars / small vans),229,320
-22/09/2023,Recycling centre A (medium / large vans),26,17
-22/09/2023,Recycling centre A (pedestrian / bicycle),0,15
-23/09/2023,Recycling centre A (cars / small vans),206,320
-23/09/2023,Recycling centre A (medium / large vans),23,17
-23/09/2023,Recycling centre A (pedestrian / bicycle),3,15
-24/09/2023,Recycling centre A (cars / small vans),283,320
-24/09/2023,Recycling centre A (medium / large vans),26,17
-24/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-25/09/2023,Recycling centre A (cars / small vans),243,320
-25/09/2023,Recycling centre A (medium / large vans),24,17
-25/09/2023,Recycling centre A (pedestrian / bicycle),0,15
-28/09/2023,Recycling centre A (cars / small vans),209,320
-28/09/2023,Recycling centre A (medium / large vans),24,17
-28/09/2023,Recycling centre A (pedestrian / bicycle),0,15
-29/09/2023,Recycling centre A (cars / small vans),232,320
-29/09/2023,Recycling centre A (medium / large vans),22,17
-29/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-30/09/2023,Recycling centre A (cars / small vans),246,320
-30/09/2023,Recycling centre A (medium / large vans),9,17
-30/09/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/10/2023,Recycling centre A (cars / small vans),263,320
-01/10/2023,Recycling centre A (medium / large vans),26,17
-01/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-02/10/2023,Recycling centre A (cars / small vans),229,320
-02/10/2023,Recycling centre A (medium / large vans),26,17
-02/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-05/10/2023,Recycling centre A (cars / small vans),284,320
-05/10/2023,Recycling centre A (medium / large vans),26,17
-05/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-06/10/2023,Recycling centre A (cars / small vans),226,320
-06/10/2023,Recycling centre A (medium / large vans),8,17
-06/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-07/10/2023,Recycling centre A (cars / small vans),224,320
-07/10/2023,Recycling centre A (medium / large vans),26,17
-07/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-08/10/2023,Recycling centre A (cars / small vans),298,320
-08/10/2023,Recycling centre A (medium / large vans),26,17
-08/10/2023,Recycling centre A (pedestrian / bicycle),3,15
-09/10/2023,Recycling centre A (cars / small vans),226,320
-09/10/2023,Recycling centre A (medium / large vans),26,17
-09/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-12/10/2023,Recycling centre A (cars / small vans),220,320
-12/10/2023,Recycling centre A (medium / large vans),26,17
-12/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-13/10/2023,Recycling centre A (cars / small vans),86,320
-13/10/2023,Recycling centre A (medium / large vans),24,17
-13/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-14/10/2023,Recycling centre A (cars / small vans),232,320
-14/10/2023,Recycling centre A (medium / large vans),26,17
-14/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-15/10/2023,Recycling centre A (cars / small vans),233,320
-15/10/2023,Recycling centre A (medium / large vans),26,17
-15/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-16/10/2023,Recycling centre A (cars / small vans),239,320
-16/10/2023,Recycling centre A (medium / large vans),23,17
-16/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-19/10/2023,Recycling centre A (cars / small vans),262,320
-19/10/2023,Recycling centre A (medium / large vans),23,17
-19/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-20/10/2023,Recycling centre A (cars / small vans),220,320
-20/10/2023,Recycling centre A (medium / large vans),22,17
-20/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-21/10/2023,Recycling centre A (cars / small vans),240,320
-21/10/2023,Recycling centre A (medium / large vans),23,17
-21/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-22/10/2023,Recycling centre A (cars / small vans),293,320
-22/10/2023,Recycling centre A (medium / large vans),22,17
-22/10/2023,Recycling centre A (pedestrian / bicycle),0,15
-23/10/2023,Recycling centre A (cars / small vans),242,320
-23/10/2023,Recycling centre A (medium / large vans),26,17
-23/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-26/10/2023,Recycling centre A (cars / small vans),266,320
-26/10/2023,Recycling centre A (medium / large vans),24,17
-26/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-27/10/2023,Recycling centre A (cars / small vans),203,320
-27/10/2023,Recycling centre A (medium / large vans),26,17
-27/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-28/10/2023,Recycling centre A (cars / small vans),226,320
-28/10/2023,Recycling centre A (medium / large vans),26,17
-28/10/2023,Recycling centre A (pedestrian / bicycle),3,15
-29/10/2023,Recycling centre A (cars / small vans),226,320
-29/10/2023,Recycling centre A (medium / large vans),26,17
-29/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-30/10/2023,Recycling centre A (cars / small vans),93,320
-30/10/2023,Recycling centre A (medium / large vans),26,17
-30/10/2023,Recycling centre A (pedestrian / bicycle),2,15
-02/11/2023,Recycling centre A (cars / small vans),240,320
-02/11/2023,Recycling centre A (medium / large vans),9,17
-02/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-03/11/2023,Recycling centre A (cars / small vans),223,320
-03/11/2023,Recycling centre A (medium / large vans),3,17
-03/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-04/11/2023,Recycling centre A (cars / small vans),292,320
-04/11/2023,Recycling centre A (medium / large vans),23,17
-04/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-05/11/2023,Recycling centre A (cars / small vans),263,320
-05/11/2023,Recycling centre A (medium / large vans),26,17
-05/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-06/11/2023,Recycling centre A (cars / small vans),202,320
-06/11/2023,Recycling centre A (medium / large vans),22,17
-06/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-09/11/2023,Recycling centre A (cars / small vans),244,320
-09/11/2023,Recycling centre A (medium / large vans),26,17
-09/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-10/11/2023,Recycling centre A (cars / small vans),209,320
-10/11/2023,Recycling centre A (medium / large vans),26,17
-10/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-11/11/2023,Recycling centre A (cars / small vans),283,320
-11/11/2023,Recycling centre A (medium / large vans),26,17
-11/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-12/11/2023,Recycling centre A (cars / small vans),296,320
-12/11/2023,Recycling centre A (medium / large vans),26,17
-12/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-13/11/2023,Recycling centre A (cars / small vans),223,320
-13/11/2023,Recycling centre A (medium / large vans),20,17
-13/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-16/11/2023,Recycling centre A (cars / small vans),266,320
-16/11/2023,Recycling centre A (medium / large vans),22,17
-16/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-17/11/2023,Recycling centre A (cars / small vans),206,320
-17/11/2023,Recycling centre A (medium / large vans),24,17
-17/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-18/11/2023,Recycling centre A (cars / small vans),283,320
-18/11/2023,Recycling centre A (medium / large vans),24,17
-18/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-19/11/2023,Recycling centre A (cars / small vans),294,320
-19/11/2023,Recycling centre A (medium / large vans),23,17
-19/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-20/11/2023,Recycling centre A (cars / small vans),230,320
-20/11/2023,Recycling centre A (medium / large vans),3,17
-20/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-23/11/2023,Recycling centre A (cars / small vans),289,320
-23/11/2023,Recycling centre A (medium / large vans),26,17
-23/11/2023,Recycling centre A (pedestrian / bicycle),0,15
-24/11/2023,Recycling centre A (cars / small vans),229,320
-24/11/2023,Recycling centre A (medium / large vans),26,17
-24/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-25/11/2023,Recycling centre A (cars / small vans),202,320
-25/11/2023,Recycling centre A (medium / large vans),23,17
-25/11/2023,Recycling centre A (pedestrian / bicycle),6,15
-26/11/2023,Recycling centre A (cars / small vans),228,320
-26/11/2023,Recycling centre A (medium / large vans),24,17
-26/11/2023,Recycling centre A (pedestrian / bicycle),3,15
-27/11/2023,Recycling centre A (cars / small vans),224,320
-27/11/2023,Recycling centre A (medium / large vans),22,17
-27/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-30/11/2023,Recycling centre A (cars / small vans),249,320
-30/11/2023,Recycling centre A (medium / large vans),24,17
-30/11/2023,Recycling centre A (pedestrian / bicycle),2,15
-01/12/2023,Recycling centre A (cars / small vans),93,320
-01/12/2023,Recycling centre A (medium / large vans),23,17
-01/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-02/12/2023,Recycling centre A (cars / small vans),262,320
-02/12/2023,Recycling centre A (medium / large vans),24,17
-02/12/2023,Recycling centre A (pedestrian / bicycle),3,15
-03/12/2023,Recycling centre A (cars / small vans),202,320
-03/12/2023,Recycling centre A (medium / large vans),23,17
-03/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-04/12/2023,Recycling centre A (cars / small vans),96,320
-04/12/2023,Recycling centre A (medium / large vans),20,17
-04/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-07/12/2023,Recycling centre A (cars / small vans),242,320
-07/12/2023,Recycling centre A (medium / large vans),26,17
-07/12/2023,Recycling centre A (pedestrian / bicycle),3,15
-08/12/2023,Recycling centre A (cars / small vans),93,320
-08/12/2023,Recycling centre A (medium / large vans),22,17
-08/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-09/12/2023,Recycling centre A (cars / small vans),263,320
-09/12/2023,Recycling centre A (medium / large vans),24,17
-09/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-10/12/2023,Recycling centre A (cars / small vans),296,320
-10/12/2023,Recycling centre A (medium / large vans),26,17
-10/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-11/12/2023,Recycling centre A (cars / small vans),226,320
-11/12/2023,Recycling centre A (medium / large vans),23,17
-11/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-14/12/2023,Recycling centre A (cars / small vans),236,320
-14/12/2023,Recycling centre A (medium / large vans),23,17
-14/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-15/12/2023,Recycling centre A (cars / small vans),223,320
-15/12/2023,Recycling centre A (medium / large vans),22,17
-15/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-16/12/2023,Recycling centre A (cars / small vans),262,320
-16/12/2023,Recycling centre A (medium / large vans),22,17
-16/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-17/12/2023,Recycling centre A (cars / small vans),206,320
-17/12/2023,Recycling centre A (medium / large vans),26,17
-17/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-18/12/2023,Recycling centre A (cars / small vans),206,320
-18/12/2023,Recycling centre A (medium / large vans),26,17
-18/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-21/12/2023,Recycling centre A (cars / small vans),236,320
-21/12/2023,Recycling centre A (medium / large vans),24,17
-21/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-22/12/2023,Recycling centre A (cars / small vans),296,320
-22/12/2023,Recycling centre A (medium / large vans),26,17
-22/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-23/12/2023,Recycling centre A (cars / small vans),232,320
-23/12/2023,Recycling centre A (medium / large vans),26,17
-23/12/2023,Recycling centre A (pedestrian / bicycle),3,15
-24/12/2023,Recycling centre A (cars / small vans),266,320
-24/12/2023,Recycling centre A (medium / large vans),26,17
-24/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-28/12/2023,Recycling centre A (cars / small vans),292,320
-28/12/2023,Recycling centre A (medium / large vans),23,17
-28/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-29/12/2023,Recycling centre A (cars / small vans),226,320
-29/12/2023,Recycling centre A (medium / large vans),22,17
-29/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-30/12/2023,Recycling centre A (cars / small vans),226,320
-30/12/2023,Recycling centre A (medium / large vans),22,17
-30/12/2023,Recycling centre A (pedestrian / bicycle),0,15
-31/12/2023,Recycling centre A (cars / small vans),224,320
-31/12/2023,Recycling centre A (medium / large vans),9,17
-31/12/2023,Recycling centre A (pedestrian / bicycle),2,15
-04/01/2024,Recycling centre A (cars / small vans),236,320
-04/01/2024,Recycling centre A (medium / large vans),26,17
-04/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-05/01/2024,Recycling centre A (cars / small vans),238,320
-05/01/2024,Recycling centre A (medium / large vans),22,17
-05/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-06/01/2024,Recycling centre A (cars / small vans),238,320
-06/01/2024,Recycling centre A (medium / large vans),22,17
-06/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-07/01/2024,Recycling centre A (cars / small vans),262,320
-07/01/2024,Recycling centre A (medium / large vans),23,17
-07/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-08/01/2024,Recycling centre A (cars / small vans),206,320
-08/01/2024,Recycling centre A (medium / large vans),6,17
-08/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-11/01/2024,Recycling centre A (cars / small vans),236,320
-11/01/2024,Recycling centre A (medium / large vans),8,17
-11/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-12/01/2024,Recycling centre A (cars / small vans),99,320
-12/01/2024,Recycling centre A (medium / large vans),8,17
-12/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-13/01/2024,Recycling centre A (cars / small vans),238,320
-13/01/2024,Recycling centre A (medium / large vans),20,17
-13/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-14/01/2024,Recycling centre A (cars / small vans),224,320
-14/01/2024,Recycling centre A (medium / large vans),9,17
-14/01/2024,Recycling centre A (pedestrian / bicycle),3,15
-15/01/2024,Recycling centre A (cars / small vans),96,320
-15/01/2024,Recycling centre A (medium / large vans),8,17
-15/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-18/01/2024,Recycling centre A (cars / small vans),223,320
-18/01/2024,Recycling centre A (medium / large vans),24,17
-18/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-19/01/2024,Recycling centre A (cars / small vans),89,320
-19/01/2024,Recycling centre A (medium / large vans),9,17
-19/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-20/01/2024,Recycling centre A (cars / small vans),268,320
-20/01/2024,Recycling centre A (medium / large vans),24,17
-20/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-21/01/2024,Recycling centre A (cars / small vans),224,320
-21/01/2024,Recycling centre A (medium / large vans),24,17
-21/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-22/01/2024,Recycling centre A (cars / small vans),89,320
-22/01/2024,Recycling centre A (medium / large vans),6,17
-22/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-25/01/2024,Recycling centre A (cars / small vans),229,320
-25/01/2024,Recycling centre A (medium / large vans),9,17
-25/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-26/01/2024,Recycling centre A (cars / small vans),90,320
-26/01/2024,Recycling centre A (medium / large vans),9,17
-26/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-27/01/2024,Recycling centre A (cars / small vans),266,320
-27/01/2024,Recycling centre A (medium / large vans),22,17
-27/01/2024,Recycling centre A (pedestrian / bicycle),2,15
-28/01/2024,Recycling centre A (cars / small vans),209,320
-28/01/2024,Recycling centre A (medium / large vans),26,17
-28/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-29/01/2024,Recycling centre A (cars / small vans),94,320
-29/01/2024,Recycling centre A (medium / large vans),8,17
-29/01/2024,Recycling centre A (pedestrian / bicycle),0,15
-01/02/2024,Recycling centre A (cars / small vans),246,320
-01/02/2024,Recycling centre A (medium / large vans),26,17
-01/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-02/02/2024,Recycling centre A (cars / small vans),222,320
-02/02/2024,Recycling centre A (medium / large vans),26,17
-02/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-03/02/2024,Recycling centre A (cars / small vans),234,320
-03/02/2024,Recycling centre A (medium / large vans),26,17
-03/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-04/02/2024,Recycling centre A (cars / small vans),228,320
-04/02/2024,Recycling centre A (medium / large vans),26,17
-04/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-05/02/2024,Recycling centre A (cars / small vans),200,320
-05/02/2024,Recycling centre A (medium / large vans),9,17
-05/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-08/02/2024,Recycling centre A (cars / small vans),223,320
-08/02/2024,Recycling centre A (medium / large vans),26,17
-08/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-09/02/2024,Recycling centre A (cars / small vans),90,320
-09/02/2024,Recycling centre A (medium / large vans),22,17
-09/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-10/02/2024,Recycling centre A (cars / small vans),263,320
-10/02/2024,Recycling centre A (medium / large vans),9,17
-10/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-11/02/2024,Recycling centre A (cars / small vans),298,320
-11/02/2024,Recycling centre A (medium / large vans),26,17
-11/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-12/02/2024,Recycling centre A (cars / small vans),226,320
-12/02/2024,Recycling centre A (medium / large vans),9,17
-12/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-15/02/2024,Recycling centre A (cars / small vans),263,320
-15/02/2024,Recycling centre A (medium / large vans),6,17
-15/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-16/02/2024,Recycling centre A (cars / small vans),204,320
-16/02/2024,Recycling centre A (medium / large vans),9,17
-16/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-17/02/2024,Recycling centre A (cars / small vans),206,320
-17/02/2024,Recycling centre A (medium / large vans),23,17
-17/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-18/02/2024,Recycling centre A (cars / small vans),233,320
-18/02/2024,Recycling centre A (medium / large vans),24,17
-18/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-19/02/2024,Recycling centre A (cars / small vans),99,320
-19/02/2024,Recycling centre A (medium / large vans),23,17
-19/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-22/02/2024,Recycling centre A (cars / small vans),226,320
-22/02/2024,Recycling centre A (medium / large vans),24,17
-22/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-23/02/2024,Recycling centre A (cars / small vans),80,320
-23/02/2024,Recycling centre A (medium / large vans),8,17
-23/02/2024,Recycling centre A (pedestrian / bicycle),3,15
-24/02/2024,Recycling centre A (cars / small vans),283,320
-24/02/2024,Recycling centre A (medium / large vans),26,17
-24/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-25/02/2024,Recycling centre A (cars / small vans),229,320
-25/02/2024,Recycling centre A (medium / large vans),26,17
-25/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-26/02/2024,Recycling centre A (cars / small vans),96,320
-26/02/2024,Recycling centre A (medium / large vans),6,17
-26/02/2024,Recycling centre A (pedestrian / bicycle),0,15
-29/02/2024,Recycling centre A (cars / small vans),246,320
-29/02/2024,Recycling centre A (medium / large vans),26,17
-29/02/2024,Recycling centre A (pedestrian / bicycle),2,15
-01/03/2024,Recycling centre A (cars / small vans),82,320
-01/03/2024,Recycling centre A (medium / large vans),23,17
-01/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-02/03/2024,Recycling centre A (cars / small vans),236,320
-02/03/2024,Recycling centre A (medium / large vans),23,17
-02/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-03/03/2024,Recycling centre A (cars / small vans),204,320
-03/03/2024,Recycling centre A (medium / large vans),26,17
-03/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-04/03/2024,Recycling centre A (cars / small vans),222,320
-04/03/2024,Recycling centre A (medium / large vans),8,17
-04/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-07/03/2024,Recycling centre A (cars / small vans),294,320
-07/03/2024,Recycling centre A (medium / large vans),20,17
-07/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-08/03/2024,Recycling centre A (cars / small vans),222,320
-08/03/2024,Recycling centre A (medium / large vans),6,17
-08/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-09/03/2024,Recycling centre A (cars / small vans),296,320
-09/03/2024,Recycling centre A (medium / large vans),22,17
-09/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-10/03/2024,Recycling centre A (cars / small vans),220,320
-10/03/2024,Recycling centre A (medium / large vans),8,17
-10/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-11/03/2024,Recycling centre A (cars / small vans),93,320
-11/03/2024,Recycling centre A (medium / large vans),20,17
-11/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-14/03/2024,Recycling centre A (cars / small vans),233,320
-14/03/2024,Recycling centre A (medium / large vans),20,17
-14/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-15/03/2024,Recycling centre A (cars / small vans),98,320
-15/03/2024,Recycling centre A (medium / large vans),20,17
-15/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-16/03/2024,Recycling centre A (cars / small vans),296,320
-16/03/2024,Recycling centre A (medium / large vans),26,17
-16/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-17/03/2024,Recycling centre A (cars / small vans),223,320
-17/03/2024,Recycling centre A (medium / large vans),24,17
-17/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-18/03/2024,Recycling centre A (cars / small vans),99,320
-18/03/2024,Recycling centre A (medium / large vans),3,17
-18/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-21/03/2024,Recycling centre A (cars / small vans),268,320
-21/03/2024,Recycling centre A (medium / large vans),20,17
-21/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-22/03/2024,Recycling centre A (cars / small vans),236,320
-22/03/2024,Recycling centre A (medium / large vans),9,17
-22/03/2024,Recycling centre A (pedestrian / bicycle),4,15
-23/03/2024,Recycling centre A (cars / small vans),232,320
-23/03/2024,Recycling centre A (medium / large vans),26,17
-23/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-24/03/2024,Recycling centre A (cars / small vans),263,320
-24/03/2024,Recycling centre A (medium / large vans),26,17
-24/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-25/03/2024,Recycling centre A (cars / small vans),222,320
-25/03/2024,Recycling centre A (medium / large vans),26,17
-25/03/2024,Recycling centre A (pedestrian / bicycle),2,15
-28/03/2024,Recycling centre A (cars / small vans),206,320
-28/03/2024,Recycling centre A (medium / large vans),26,17
-28/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-29/03/2024,Recycling centre A (cars / small vans),222,320
-29/03/2024,Recycling centre A (medium / large vans),26,17
-29/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-30/03/2024,Recycling centre A (cars / small vans),236,320
-30/03/2024,Recycling centre A (medium / large vans),26,17
-30/03/2024,Recycling centre A (pedestrian / bicycle),0,15
-31/03/2024,Recycling centre A (cars / small vans),266,320
-31/03/2024,Recycling centre A (medium / large vans),26,17
-31/03/2024,Recycling centre A (pedestrian / bicycle),2,15
+Date,Vehicle type,Number of spaces
+01/04/2023,Recycling centre A (cars / small vans),320
+01/04/2023,Recycling centre A (medium / large vans),17
+01/04/2023,Recycling centre A (pedestrian / bicycle),15
+02/04/2023,Recycling centre A (cars / small vans),320
+02/04/2023,Recycling centre A (medium / large vans),17
+02/04/2023,Recycling centre A (pedestrian / bicycle),15
+03/04/2023,Recycling centre A (cars / small vans),320
+03/04/2023,Recycling centre A (medium / large vans),17
+03/04/2023,Recycling centre A (pedestrian / bicycle),15
+06/04/2023,Recycling centre A (cars / small vans),320
+06/04/2023,Recycling centre A (medium / large vans),17
+06/04/2023,Recycling centre A (pedestrian / bicycle),15
+07/04/2023,Recycling centre A (cars / small vans),320
+07/04/2023,Recycling centre A (medium / large vans),17
+07/04/2023,Recycling centre A (pedestrian / bicycle),15
+08/04/2023,Recycling centre A (cars / small vans),320
+08/04/2023,Recycling centre A (medium / large vans),17
+08/04/2023,Recycling centre A (pedestrian / bicycle),15
+09/04/2023,Recycling centre A (cars / small vans),320
+09/04/2023,Recycling centre A (medium / large vans),17
+09/04/2023,Recycling centre A (pedestrian / bicycle),15
+10/04/2023,Recycling centre A (cars / small vans),320
+10/04/2023,Recycling centre A (medium / large vans),17
+10/04/2023,Recycling centre A (pedestrian / bicycle),15
+13/04/2023,Recycling centre A (cars / small vans),320
+13/04/2023,Recycling centre A (medium / large vans),17
+13/04/2023,Recycling centre A (pedestrian / bicycle),15
+14/04/2023,Recycling centre A (cars / small vans),320
+14/04/2023,Recycling centre A (medium / large vans),17
+14/04/2023,Recycling centre A (pedestrian / bicycle),15
+15/04/2023,Recycling centre A (cars / small vans),320
+15/04/2023,Recycling centre A (medium / large vans),17
+15/04/2023,Recycling centre A (pedestrian / bicycle),15
+16/04/2023,Recycling centre A (cars / small vans),320
+16/04/2023,Recycling centre A (medium / large vans),17
+16/04/2023,Recycling centre A (pedestrian / bicycle),15
+17/04/2023,Recycling centre A (cars / small vans),320
+17/04/2023,Recycling centre A (medium / large vans),17
+17/04/2023,Recycling centre A (pedestrian / bicycle),15
+20/04/2023,Recycling centre A (cars / small vans),320
+20/04/2023,Recycling centre A (medium / large vans),17
+20/04/2023,Recycling centre A (pedestrian / bicycle),15
+21/04/2023,Recycling centre A (cars / small vans),320
+21/04/2023,Recycling centre A (medium / large vans),17
+21/04/2023,Recycling centre A (pedestrian / bicycle),15
+22/04/2023,Recycling centre A (cars / small vans),320
+22/04/2023,Recycling centre A (medium / large vans),17
+22/04/2023,Recycling centre A (pedestrian / bicycle),15
+23/04/2023,Recycling centre A (cars / small vans),320
+23/04/2023,Recycling centre A (medium / large vans),17
+23/04/2023,Recycling centre A (pedestrian / bicycle),15
+24/04/2023,Recycling centre A (cars / small vans),320
+24/04/2023,Recycling centre A (medium / large vans),17
+24/04/2023,Recycling centre A (pedestrian / bicycle),15
+27/04/2023,Recycling centre A (cars / small vans),320
+27/04/2023,Recycling centre A (medium / large vans),17
+27/04/2023,Recycling centre A (pedestrian / bicycle),15
+28/04/2023,Recycling centre A (cars / small vans),320
+28/04/2023,Recycling centre A (medium / large vans),17
+28/04/2023,Recycling centre A (pedestrian / bicycle),15
+29/04/2023,Recycling centre A (cars / small vans),320
+29/04/2023,Recycling centre A (medium / large vans),17
+29/04/2023,Recycling centre A (pedestrian / bicycle),15
+30/04/2023,Recycling centre A (cars / small vans),320
+30/04/2023,Recycling centre A (medium / large vans),17
+30/04/2023,Recycling centre A (pedestrian / bicycle),15
+01/05/2023,Recycling centre A (cars / small vans),320
+01/05/2023,Recycling centre A (medium / large vans),17
+01/05/2023,Recycling centre A (pedestrian / bicycle),15
+04/05/2023,Recycling centre A (cars / small vans),320
+04/05/2023,Recycling centre A (medium / large vans),17
+04/05/2023,Recycling centre A (pedestrian / bicycle),15
+05/05/2023,Recycling centre A (cars / small vans),320
+05/05/2023,Recycling centre A (medium / large vans),17
+05/05/2023,Recycling centre A (pedestrian / bicycle),15
+07/05/2023,Recycling centre A (cars / small vans),320
+07/05/2023,Recycling centre A (medium / large vans),17
+07/05/2023,Recycling centre A (pedestrian / bicycle),15
+08/05/2023,Recycling centre A (cars / small vans),320
+08/05/2023,Recycling centre A (medium / large vans),17
+08/05/2023,Recycling centre A (pedestrian / bicycle),15
+11/05/2023,Recycling centre A (cars / small vans),320
+11/05/2023,Recycling centre A (medium / large vans),17
+11/05/2023,Recycling centre A (pedestrian / bicycle),15
+12/05/2023,Recycling centre A (cars / small vans),320
+12/05/2023,Recycling centre A (medium / large vans),17
+12/05/2023,Recycling centre A (pedestrian / bicycle),15
+13/05/2023,Recycling centre A (cars / small vans),320
+13/05/2023,Recycling centre A (medium / large vans),17
+13/05/2023,Recycling centre A (pedestrian / bicycle),15
+14/05/2023,Recycling centre A (cars / small vans),320
+14/05/2023,Recycling centre A (medium / large vans),17
+14/05/2023,Recycling centre A (pedestrian / bicycle),15
+15/05/2023,Recycling centre A (cars / small vans),320
+15/05/2023,Recycling centre A (medium / large vans),17
+15/05/2023,Recycling centre A (pedestrian / bicycle),15
+18/05/2023,Recycling centre A (cars / small vans),320
+18/05/2023,Recycling centre A (medium / large vans),17
+18/05/2023,Recycling centre A (pedestrian / bicycle),15
+19/05/2023,Recycling centre A (cars / small vans),320
+19/05/2023,Recycling centre A (medium / large vans),17
+19/05/2023,Recycling centre A (pedestrian / bicycle),15
+20/05/2023,Recycling centre A (cars / small vans),320
+20/05/2023,Recycling centre A (medium / large vans),17
+20/05/2023,Recycling centre A (pedestrian / bicycle),15
+21/05/2023,Recycling centre A (cars / small vans),320
+21/05/2023,Recycling centre A (medium / large vans),17
+21/05/2023,Recycling centre A (pedestrian / bicycle),15
+22/05/2023,Recycling centre A (cars / small vans),320
+22/05/2023,Recycling centre A (medium / large vans),17
+22/05/2023,Recycling centre A (pedestrian / bicycle),15
+25/05/2023,Recycling centre A (cars / small vans),320
+25/05/2023,Recycling centre A (medium / large vans),17
+25/05/2023,Recycling centre A (pedestrian / bicycle),15
+26/05/2023,Recycling centre A (cars / small vans),320
+26/05/2023,Recycling centre A (medium / large vans),17
+26/05/2023,Recycling centre A (pedestrian / bicycle),15
+27/05/2023,Recycling centre A (cars / small vans),320
+27/05/2023,Recycling centre A (medium / large vans),17
+27/05/2023,Recycling centre A (pedestrian / bicycle),15
+28/05/2023,Recycling centre A (cars / small vans),320
+28/05/2023,Recycling centre A (medium / large vans),17
+28/05/2023,Recycling centre A (pedestrian / bicycle),15
+29/05/2023,Recycling centre A (cars / small vans),320
+29/05/2023,Recycling centre A (medium / large vans),17
+29/05/2023,Recycling centre A (pedestrian / bicycle),15
+01/06/2023,Recycling centre A (cars / small vans),320
+01/06/2023,Recycling centre A (medium / large vans),17
+01/06/2023,Recycling centre A (pedestrian / bicycle),15
+02/06/2023,Recycling centre A (cars / small vans),320
+02/06/2023,Recycling centre A (medium / large vans),17
+02/06/2023,Recycling centre A (pedestrian / bicycle),15
+03/06/2023,Recycling centre A (cars / small vans),320
+03/06/2023,Recycling centre A (medium / large vans),17
+03/06/2023,Recycling centre A (pedestrian / bicycle),15
+04/06/2023,Recycling centre A (cars / small vans),320
+04/06/2023,Recycling centre A (medium / large vans),17
+04/06/2023,Recycling centre A (pedestrian / bicycle),15
+05/06/2023,Recycling centre A (cars / small vans),320
+05/06/2023,Recycling centre A (medium / large vans),17
+05/06/2023,Recycling centre A (pedestrian / bicycle),15
+08/06/2023,Recycling centre A (cars / small vans),320
+08/06/2023,Recycling centre A (medium / large vans),17
+08/06/2023,Recycling centre A (pedestrian / bicycle),15
+09/06/2023,Recycling centre A (cars / small vans),320
+09/06/2023,Recycling centre A (medium / large vans),17
+09/06/2023,Recycling centre A (pedestrian / bicycle),15
+10/06/2023,Recycling centre A (cars / small vans),320
+10/06/2023,Recycling centre A (medium / large vans),17
+10/06/2023,Recycling centre A (pedestrian / bicycle),15
+11/06/2023,Recycling centre A (cars / small vans),320
+11/06/2023,Recycling centre A (medium / large vans),17
+11/06/2023,Recycling centre A (pedestrian / bicycle),15
+12/06/2023,Recycling centre A (cars / small vans),320
+12/06/2023,Recycling centre A (medium / large vans),17
+12/06/2023,Recycling centre A (pedestrian / bicycle),15
+15/06/2023,Recycling centre A (cars / small vans),320
+15/06/2023,Recycling centre A (medium / large vans),17
+15/06/2023,Recycling centre A (pedestrian / bicycle),15
+16/06/2023,Recycling centre A (cars / small vans),320
+16/06/2023,Recycling centre A (medium / large vans),17
+16/06/2023,Recycling centre A (pedestrian / bicycle),15
+17/06/2023,Recycling centre A (cars / small vans),320
+17/06/2023,Recycling centre A (medium / large vans),17
+17/06/2023,Recycling centre A (pedestrian / bicycle),15
+18/06/2023,Recycling centre A (cars / small vans),320
+18/06/2023,Recycling centre A (medium / large vans),17
+18/06/2023,Recycling centre A (pedestrian / bicycle),15
+19/06/2023,Recycling centre A (cars / small vans),320
+19/06/2023,Recycling centre A (medium / large vans),17
+19/06/2023,Recycling centre A (pedestrian / bicycle),15
+22/06/2023,Recycling centre A (cars / small vans),320
+22/06/2023,Recycling centre A (medium / large vans),17
+22/06/2023,Recycling centre A (pedestrian / bicycle),15
+23/06/2023,Recycling centre A (cars / small vans),320
+23/06/2023,Recycling centre A (medium / large vans),17
+23/06/2023,Recycling centre A (pedestrian / bicycle),15
+24/06/2023,Recycling centre A (cars / small vans),320
+24/06/2023,Recycling centre A (medium / large vans),17
+24/06/2023,Recycling centre A (pedestrian / bicycle),15
+25/06/2023,Recycling centre A (cars / small vans),320
+25/06/2023,Recycling centre A (medium / large vans),17
+25/06/2023,Recycling centre A (pedestrian / bicycle),15
+26/06/2023,Recycling centre A (cars / small vans),320
+26/06/2023,Recycling centre A (medium / large vans),17
+26/06/2023,Recycling centre A (pedestrian / bicycle),15
+29/06/2023,Recycling centre A (cars / small vans),320
+29/06/2023,Recycling centre A (medium / large vans),17
+29/06/2023,Recycling centre A (pedestrian / bicycle),15
+30/06/2023,Recycling centre A (cars / small vans),320
+30/06/2023,Recycling centre A (medium / large vans),17
+30/06/2023,Recycling centre A (pedestrian / bicycle),15
+01/07/2023,Recycling centre A (cars / small vans),320
+01/07/2023,Recycling centre A (medium / large vans),17
+01/07/2023,Recycling centre A (pedestrian / bicycle),15
+02/07/2023,Recycling centre A (cars / small vans),320
+02/07/2023,Recycling centre A (medium / large vans),17
+02/07/2023,Recycling centre A (pedestrian / bicycle),15
+03/07/2023,Recycling centre A (cars / small vans),320
+03/07/2023,Recycling centre A (medium / large vans),17
+03/07/2023,Recycling centre A (pedestrian / bicycle),15
+06/07/2023,Recycling centre A (cars / small vans),320
+06/07/2023,Recycling centre A (medium / large vans),17
+06/07/2023,Recycling centre A (pedestrian / bicycle),15
+07/07/2023,Recycling centre A (cars / small vans),320
+07/07/2023,Recycling centre A (medium / large vans),17
+07/07/2023,Recycling centre A (pedestrian / bicycle),15
+08/07/2023,Recycling centre A (cars / small vans),320
+08/07/2023,Recycling centre A (medium / large vans),17
+08/07/2023,Recycling centre A (pedestrian / bicycle),15
+09/07/2023,Recycling centre A (cars / small vans),320
+09/07/2023,Recycling centre A (medium / large vans),17
+09/07/2023,Recycling centre A (pedestrian / bicycle),15
+10/07/2023,Recycling centre A (cars / small vans),320
+10/07/2023,Recycling centre A (medium / large vans),17
+10/07/2023,Recycling centre A (pedestrian / bicycle),15
+13/07/2023,Recycling centre A (cars / small vans),320
+13/07/2023,Recycling centre A (medium / large vans),17
+13/07/2023,Recycling centre A (pedestrian / bicycle),15
+14/07/2023,Recycling centre A (cars / small vans),320
+14/07/2023,Recycling centre A (medium / large vans),17
+14/07/2023,Recycling centre A (pedestrian / bicycle),15
+15/07/2023,Recycling centre A (cars / small vans),320
+15/07/2023,Recycling centre A (medium / large vans),17
+15/07/2023,Recycling centre A (pedestrian / bicycle),15
+16/07/2023,Recycling centre A (cars / small vans),320
+16/07/2023,Recycling centre A (medium / large vans),17
+16/07/2023,Recycling centre A (pedestrian / bicycle),15
+17/07/2023,Recycling centre A (cars / small vans),320
+17/07/2023,Recycling centre A (medium / large vans),17
+17/07/2023,Recycling centre A (pedestrian / bicycle),15
+20/07/2023,Recycling centre A (cars / small vans),320
+20/07/2023,Recycling centre A (medium / large vans),17
+20/07/2023,Recycling centre A (pedestrian / bicycle),15
+21/07/2023,Recycling centre A (cars / small vans),320
+21/07/2023,Recycling centre A (medium / large vans),17
+21/07/2023,Recycling centre A (pedestrian / bicycle),15
+22/07/2023,Recycling centre A (cars / small vans),320
+22/07/2023,Recycling centre A (medium / large vans),17
+22/07/2023,Recycling centre A (pedestrian / bicycle),15
+23/07/2023,Recycling centre A (cars / small vans),320
+23/07/2023,Recycling centre A (medium / large vans),17
+23/07/2023,Recycling centre A (pedestrian / bicycle),15
+24/07/2023,Recycling centre A (cars / small vans),320
+24/07/2023,Recycling centre A (medium / large vans),17
+24/07/2023,Recycling centre A (pedestrian / bicycle),15
+27/07/2023,Recycling centre A (cars / small vans),320
+27/07/2023,Recycling centre A (medium / large vans),17
+27/07/2023,Recycling centre A (pedestrian / bicycle),15
+28/07/2023,Recycling centre A (cars / small vans),320
+28/07/2023,Recycling centre A (medium / large vans),17
+28/07/2023,Recycling centre A (pedestrian / bicycle),15
+29/07/2023,Recycling centre A (cars / small vans),320
+29/07/2023,Recycling centre A (medium / large vans),17
+29/07/2023,Recycling centre A (pedestrian / bicycle),15
+30/07/2023,Recycling centre A (cars / small vans),320
+30/07/2023,Recycling centre A (medium / large vans),17
+30/07/2023,Recycling centre A (pedestrian / bicycle),15
+31/07/2023,Recycling centre A (cars / small vans),320
+31/07/2023,Recycling centre A (medium / large vans),17
+31/07/2023,Recycling centre A (pedestrian / bicycle),15
+03/08/2023,Recycling centre A (cars / small vans),320
+03/08/2023,Recycling centre A (medium / large vans),17
+03/08/2023,Recycling centre A (pedestrian / bicycle),15
+04/08/2023,Recycling centre A (cars / small vans),320
+04/08/2023,Recycling centre A (medium / large vans),17
+04/08/2023,Recycling centre A (pedestrian / bicycle),15
+05/08/2023,Recycling centre A (cars / small vans),320
+05/08/2023,Recycling centre A (medium / large vans),17
+05/08/2023,Recycling centre A (pedestrian / bicycle),15
+06/08/2023,Recycling centre A (cars / small vans),320
+06/08/2023,Recycling centre A (medium / large vans),17
+06/08/2023,Recycling centre A (pedestrian / bicycle),15
+07/08/2023,Recycling centre A (cars / small vans),320
+07/08/2023,Recycling centre A (medium / large vans),17
+07/08/2023,Recycling centre A (pedestrian / bicycle),15
+10/08/2023,Recycling centre A (cars / small vans),320
+10/08/2023,Recycling centre A (medium / large vans),17
+10/08/2023,Recycling centre A (pedestrian / bicycle),15
+11/08/2023,Recycling centre A (cars / small vans),320
+11/08/2023,Recycling centre A (medium / large vans),17
+11/08/2023,Recycling centre A (pedestrian / bicycle),15
+12/08/2023,Recycling centre A (cars / small vans),320
+12/08/2023,Recycling centre A (medium / large vans),17
+12/08/2023,Recycling centre A (pedestrian / bicycle),15
+13/08/2023,Recycling centre A (cars / small vans),320
+13/08/2023,Recycling centre A (medium / large vans),17
+13/08/2023,Recycling centre A (pedestrian / bicycle),15
+14/08/2023,Recycling centre A (cars / small vans),320
+14/08/2023,Recycling centre A (medium / large vans),17
+14/08/2023,Recycling centre A (pedestrian / bicycle),15
+17/08/2023,Recycling centre A (cars / small vans),320
+17/08/2023,Recycling centre A (medium / large vans),17
+17/08/2023,Recycling centre A (pedestrian / bicycle),15
+18/08/2023,Recycling centre A (cars / small vans),320
+18/08/2023,Recycling centre A (medium / large vans),17
+18/08/2023,Recycling centre A (pedestrian / bicycle),15
+19/08/2023,Recycling centre A (cars / small vans),320
+19/08/2023,Recycling centre A (medium / large vans),17
+19/08/2023,Recycling centre A (pedestrian / bicycle),15
+20/08/2023,Recycling centre A (cars / small vans),320
+20/08/2023,Recycling centre A (medium / large vans),17
+20/08/2023,Recycling centre A (pedestrian / bicycle),15
+21/08/2023,Recycling centre A (cars / small vans),320
+21/08/2023,Recycling centre A (medium / large vans),17
+21/08/2023,Recycling centre A (pedestrian / bicycle),15
+24/08/2023,Recycling centre A (cars / small vans),320
+24/08/2023,Recycling centre A (medium / large vans),17
+24/08/2023,Recycling centre A (pedestrian / bicycle),15
+25/08/2023,Recycling centre A (cars / small vans),320
+25/08/2023,Recycling centre A (medium / large vans),17
+25/08/2023,Recycling centre A (pedestrian / bicycle),15
+26/08/2023,Recycling centre A (cars / small vans),320
+26/08/2023,Recycling centre A (medium / large vans),17
+26/08/2023,Recycling centre A (pedestrian / bicycle),15
+27/08/2023,Recycling centre A (cars / small vans),320
+27/08/2023,Recycling centre A (medium / large vans),17
+27/08/2023,Recycling centre A (pedestrian / bicycle),15
+28/08/2023,Recycling centre A (cars / small vans),320
+28/08/2023,Recycling centre A (medium / large vans),17
+28/08/2023,Recycling centre A (pedestrian / bicycle),15
+31/08/2023,Recycling centre A (cars / small vans),320
+31/08/2023,Recycling centre A (medium / large vans),17
+31/08/2023,Recycling centre A (pedestrian / bicycle),15
+01/09/2023,Recycling centre A (cars / small vans),320
+01/09/2023,Recycling centre A (medium / large vans),17
+01/09/2023,Recycling centre A (pedestrian / bicycle),15
+02/09/2023,Recycling centre A (cars / small vans),320
+02/09/2023,Recycling centre A (medium / large vans),17
+02/09/2023,Recycling centre A (pedestrian / bicycle),15
+03/09/2023,Recycling centre A (cars / small vans),320
+03/09/2023,Recycling centre A (medium / large vans),17
+03/09/2023,Recycling centre A (pedestrian / bicycle),15
+04/09/2023,Recycling centre A (cars / small vans),320
+04/09/2023,Recycling centre A (medium / large vans),17
+04/09/2023,Recycling centre A (pedestrian / bicycle),15
+07/09/2023,Recycling centre A (cars / small vans),320
+07/09/2023,Recycling centre A (medium / large vans),17
+07/09/2023,Recycling centre A (pedestrian / bicycle),15
+08/09/2023,Recycling centre A (cars / small vans),320
+08/09/2023,Recycling centre A (medium / large vans),17
+08/09/2023,Recycling centre A (pedestrian / bicycle),15
+09/09/2023,Recycling centre A (cars / small vans),320
+09/09/2023,Recycling centre A (medium / large vans),17
+09/09/2023,Recycling centre A (pedestrian / bicycle),15
+10/09/2023,Recycling centre A (cars / small vans),320
+10/09/2023,Recycling centre A (medium / large vans),17
+10/09/2023,Recycling centre A (pedestrian / bicycle),15
+11/09/2023,Recycling centre A (cars / small vans),320
+11/09/2023,Recycling centre A (medium / large vans),17
+11/09/2023,Recycling centre A (pedestrian / bicycle),15
+14/09/2023,Recycling centre A (cars / small vans),320
+14/09/2023,Recycling centre A (medium / large vans),17
+14/09/2023,Recycling centre A (pedestrian / bicycle),15
+15/09/2023,Recycling centre A (cars / small vans),320
+15/09/2023,Recycling centre A (medium / large vans),17
+15/09/2023,Recycling centre A (pedestrian / bicycle),15
+16/09/2023,Recycling centre A (cars / small vans),320
+16/09/2023,Recycling centre A (medium / large vans),17
+16/09/2023,Recycling centre A (pedestrian / bicycle),15
+17/09/2023,Recycling centre A (cars / small vans),320
+17/09/2023,Recycling centre A (medium / large vans),17
+17/09/2023,Recycling centre A (pedestrian / bicycle),15
+18/09/2023,Recycling centre A (cars / small vans),320
+18/09/2023,Recycling centre A (medium / large vans),17
+18/09/2023,Recycling centre A (pedestrian / bicycle),15
+21/09/2023,Recycling centre A (cars / small vans),320
+21/09/2023,Recycling centre A (medium / large vans),17
+21/09/2023,Recycling centre A (pedestrian / bicycle),15
+22/09/2023,Recycling centre A (cars / small vans),320
+22/09/2023,Recycling centre A (medium / large vans),17
+22/09/2023,Recycling centre A (pedestrian / bicycle),15
+23/09/2023,Recycling centre A (cars / small vans),320
+23/09/2023,Recycling centre A (medium / large vans),17
+23/09/2023,Recycling centre A (pedestrian / bicycle),15
+24/09/2023,Recycling centre A (cars / small vans),320
+24/09/2023,Recycling centre A (medium / large vans),17
+24/09/2023,Recycling centre A (pedestrian / bicycle),15
+25/09/2023,Recycling centre A (cars / small vans),320
+25/09/2023,Recycling centre A (medium / large vans),17
+25/09/2023,Recycling centre A (pedestrian / bicycle),15
+28/09/2023,Recycling centre A (cars / small vans),320
+28/09/2023,Recycling centre A (medium / large vans),17
+28/09/2023,Recycling centre A (pedestrian / bicycle),15
+29/09/2023,Recycling centre A (cars / small vans),320
+29/09/2023,Recycling centre A (medium / large vans),17
+29/09/2023,Recycling centre A (pedestrian / bicycle),15
+30/09/2023,Recycling centre A (cars / small vans),320
+30/09/2023,Recycling centre A (medium / large vans),17
+30/09/2023,Recycling centre A (pedestrian / bicycle),15
+01/10/2023,Recycling centre A (cars / small vans),320
+01/10/2023,Recycling centre A (medium / large vans),17
+01/10/2023,Recycling centre A (pedestrian / bicycle),15
+02/10/2023,Recycling centre A (cars / small vans),320
+02/10/2023,Recycling centre A (medium / large vans),17
+02/10/2023,Recycling centre A (pedestrian / bicycle),15
+05/10/2023,Recycling centre A (cars / small vans),320
+05/10/2023,Recycling centre A (medium / large vans),17
+05/10/2023,Recycling centre A (pedestrian / bicycle),15
+06/10/2023,Recycling centre A (cars / small vans),320
+06/10/2023,Recycling centre A (medium / large vans),17
+06/10/2023,Recycling centre A (pedestrian / bicycle),15
+07/10/2023,Recycling centre A (cars / small vans),320
+07/10/2023,Recycling centre A (medium / large vans),17
+07/10/2023,Recycling centre A (pedestrian / bicycle),15
+08/10/2023,Recycling centre A (cars / small vans),320
+08/10/2023,Recycling centre A (medium / large vans),17
+08/10/2023,Recycling centre A (pedestrian / bicycle),15
+09/10/2023,Recycling centre A (cars / small vans),320
+09/10/2023,Recycling centre A (medium / large vans),17
+09/10/2023,Recycling centre A (pedestrian / bicycle),15
+12/10/2023,Recycling centre A (cars / small vans),320
+12/10/2023,Recycling centre A (medium / large vans),17
+12/10/2023,Recycling centre A (pedestrian / bicycle),15
+13/10/2023,Recycling centre A (cars / small vans),320
+13/10/2023,Recycling centre A (medium / large vans),17
+13/10/2023,Recycling centre A (pedestrian / bicycle),15
+14/10/2023,Recycling centre A (cars / small vans),320
+14/10/2023,Recycling centre A (medium / large vans),17
+14/10/2023,Recycling centre A (pedestrian / bicycle),15
+15/10/2023,Recycling centre A (cars / small vans),320
+15/10/2023,Recycling centre A (medium / large vans),17
+15/10/2023,Recycling centre A (pedestrian / bicycle),15
+16/10/2023,Recycling centre A (cars / small vans),320
+16/10/2023,Recycling centre A (medium / large vans),17
+16/10/2023,Recycling centre A (pedestrian / bicycle),15
+19/10/2023,Recycling centre A (cars / small vans),320
+19/10/2023,Recycling centre A (medium / large vans),17
+19/10/2023,Recycling centre A (pedestrian / bicycle),15
+20/10/2023,Recycling centre A (cars / small vans),320
+20/10/2023,Recycling centre A (medium / large vans),17
+20/10/2023,Recycling centre A (pedestrian / bicycle),15
+21/10/2023,Recycling centre A (cars / small vans),320
+21/10/2023,Recycling centre A (medium / large vans),17
+21/10/2023,Recycling centre A (pedestrian / bicycle),15
+22/10/2023,Recycling centre A (cars / small vans),320
+22/10/2023,Recycling centre A (medium / large vans),17
+22/10/2023,Recycling centre A (pedestrian / bicycle),15
+23/10/2023,Recycling centre A (cars / small vans),320
+23/10/2023,Recycling centre A (medium / large vans),17
+23/10/2023,Recycling centre A (pedestrian / bicycle),15
+26/10/2023,Recycling centre A (cars / small vans),320
+26/10/2023,Recycling centre A (medium / large vans),17
+26/10/2023,Recycling centre A (pedestrian / bicycle),15
+27/10/2023,Recycling centre A (cars / small vans),320
+27/10/2023,Recycling centre A (medium / large vans),17
+27/10/2023,Recycling centre A (pedestrian / bicycle),15
+28/10/2023,Recycling centre A (cars / small vans),320
+28/10/2023,Recycling centre A (medium / large vans),17
+28/10/2023,Recycling centre A (pedestrian / bicycle),15
+29/10/2023,Recycling centre A (cars / small vans),320
+29/10/2023,Recycling centre A (medium / large vans),17
+29/10/2023,Recycling centre A (pedestrian / bicycle),15
+30/10/2023,Recycling centre A (cars / small vans),320
+30/10/2023,Recycling centre A (medium / large vans),17
+30/10/2023,Recycling centre A (pedestrian / bicycle),15
+02/11/2023,Recycling centre A (cars / small vans),320
+02/11/2023,Recycling centre A (medium / large vans),17
+02/11/2023,Recycling centre A (pedestrian / bicycle),15
+03/11/2023,Recycling centre A (cars / small vans),320
+03/11/2023,Recycling centre A (medium / large vans),17
+03/11/2023,Recycling centre A (pedestrian / bicycle),15
+04/11/2023,Recycling centre A (cars / small vans),320
+04/11/2023,Recycling centre A (medium / large vans),17
+04/11/2023,Recycling centre A (pedestrian / bicycle),15
+05/11/2023,Recycling centre A (cars / small vans),320
+05/11/2023,Recycling centre A (medium / large vans),17
+05/11/2023,Recycling centre A (pedestrian / bicycle),15
+06/11/2023,Recycling centre A (cars / small vans),320
+06/11/2023,Recycling centre A (medium / large vans),17
+06/11/2023,Recycling centre A (pedestrian / bicycle),15
+09/11/2023,Recycling centre A (cars / small vans),320
+09/11/2023,Recycling centre A (medium / large vans),17
+09/11/2023,Recycling centre A (pedestrian / bicycle),15
+10/11/2023,Recycling centre A (cars / small vans),320
+10/11/2023,Recycling centre A (medium / large vans),17
+10/11/2023,Recycling centre A (pedestrian / bicycle),15
+11/11/2023,Recycling centre A (cars / small vans),320
+11/11/2023,Recycling centre A (medium / large vans),17
+11/11/2023,Recycling centre A (pedestrian / bicycle),15
+12/11/2023,Recycling centre A (cars / small vans),320
+12/11/2023,Recycling centre A (medium / large vans),17
+12/11/2023,Recycling centre A (pedestrian / bicycle),15
+13/11/2023,Recycling centre A (cars / small vans),320
+13/11/2023,Recycling centre A (medium / large vans),17
+13/11/2023,Recycling centre A (pedestrian / bicycle),15
+16/11/2023,Recycling centre A (cars / small vans),320
+16/11/2023,Recycling centre A (medium / large vans),17
+16/11/2023,Recycling centre A (pedestrian / bicycle),15
+17/11/2023,Recycling centre A (cars / small vans),320
+17/11/2023,Recycling centre A (medium / large vans),17
+17/11/2023,Recycling centre A (pedestrian / bicycle),15
+18/11/2023,Recycling centre A (cars / small vans),320
+18/11/2023,Recycling centre A (medium / large vans),17
+18/11/2023,Recycling centre A (pedestrian / bicycle),15
+19/11/2023,Recycling centre A (cars / small vans),320
+19/11/2023,Recycling centre A (medium / large vans),17
+19/11/2023,Recycling centre A (pedestrian / bicycle),15
+20/11/2023,Recycling centre A (cars / small vans),320
+20/11/2023,Recycling centre A (medium / large vans),17
+20/11/2023,Recycling centre A (pedestrian / bicycle),15
+23/11/2023,Recycling centre A (cars / small vans),320
+23/11/2023,Recycling centre A (medium / large vans),17
+23/11/2023,Recycling centre A (pedestrian / bicycle),15
+24/11/2023,Recycling centre A (cars / small vans),320
+24/11/2023,Recycling centre A (medium / large vans),17
+24/11/2023,Recycling centre A (pedestrian / bicycle),15
+25/11/2023,Recycling centre A (cars / small vans),320
+25/11/2023,Recycling centre A (medium / large vans),17
+25/11/2023,Recycling centre A (pedestrian / bicycle),15
+26/11/2023,Recycling centre A (cars / small vans),320
+26/11/2023,Recycling centre A (medium / large vans),17
+26/11/2023,Recycling centre A (pedestrian / bicycle),15
+27/11/2023,Recycling centre A (cars / small vans),320
+27/11/2023,Recycling centre A (medium / large vans),17
+27/11/2023,Recycling centre A (pedestrian / bicycle),15
+30/11/2023,Recycling centre A (cars / small vans),320
+30/11/2023,Recycling centre A (medium / large vans),17
+30/11/2023,Recycling centre A (pedestrian / bicycle),15
+01/12/2023,Recycling centre A (cars / small vans),320
+01/12/2023,Recycling centre A (medium / large vans),17
+01/12/2023,Recycling centre A (pedestrian / bicycle),15
+02/12/2023,Recycling centre A (cars / small vans),320
+02/12/2023,Recycling centre A (medium / large vans),17
+02/12/2023,Recycling centre A (pedestrian / bicycle),15
+03/12/2023,Recycling centre A (cars / small vans),320
+03/12/2023,Recycling centre A (medium / large vans),17
+03/12/2023,Recycling centre A (pedestrian / bicycle),15
+04/12/2023,Recycling centre A (cars / small vans),320
+04/12/2023,Recycling centre A (medium / large vans),17
+04/12/2023,Recycling centre A (pedestrian / bicycle),15
+07/12/2023,Recycling centre A (cars / small vans),320
+07/12/2023,Recycling centre A (medium / large vans),17
+07/12/2023,Recycling centre A (pedestrian / bicycle),15
+08/12/2023,Recycling centre A (cars / small vans),320
+08/12/2023,Recycling centre A (medium / large vans),17
+08/12/2023,Recycling centre A (pedestrian / bicycle),15
+09/12/2023,Recycling centre A (cars / small vans),320
+09/12/2023,Recycling centre A (medium / large vans),17
+09/12/2023,Recycling centre A (pedestrian / bicycle),15
+10/12/2023,Recycling centre A (cars / small vans),320
+10/12/2023,Recycling centre A (medium / large vans),17
+10/12/2023,Recycling centre A (pedestrian / bicycle),15
+11/12/2023,Recycling centre A (cars / small vans),320
+11/12/2023,Recycling centre A (medium / large vans),17
+11/12/2023,Recycling centre A (pedestrian / bicycle),15
+14/12/2023,Recycling centre A (cars / small vans),320
+14/12/2023,Recycling centre A (medium / large vans),17
+14/12/2023,Recycling centre A (pedestrian / bicycle),15
+15/12/2023,Recycling centre A (cars / small vans),320
+15/12/2023,Recycling centre A (medium / large vans),17
+15/12/2023,Recycling centre A (pedestrian / bicycle),15
+16/12/2023,Recycling centre A (cars / small vans),320
+16/12/2023,Recycling centre A (medium / large vans),17
+16/12/2023,Recycling centre A (pedestrian / bicycle),15
+17/12/2023,Recycling centre A (cars / small vans),320
+17/12/2023,Recycling centre A (medium / large vans),17
+17/12/2023,Recycling centre A (pedestrian / bicycle),15
+18/12/2023,Recycling centre A (cars / small vans),320
+18/12/2023,Recycling centre A (medium / large vans),17
+18/12/2023,Recycling centre A (pedestrian / bicycle),15
+21/12/2023,Recycling centre A (cars / small vans),320
+21/12/2023,Recycling centre A (medium / large vans),17
+21/12/2023,Recycling centre A (pedestrian / bicycle),15
+22/12/2023,Recycling centre A (cars / small vans),320
+22/12/2023,Recycling centre A (medium / large vans),17
+22/12/2023,Recycling centre A (pedestrian / bicycle),15
+23/12/2023,Recycling centre A (cars / small vans),320
+23/12/2023,Recycling centre A (medium / large vans),17
+23/12/2023,Recycling centre A (pedestrian / bicycle),15
+24/12/2023,Recycling centre A (cars / small vans),320
+24/12/2023,Recycling centre A (medium / large vans),17
+24/12/2023,Recycling centre A (pedestrian / bicycle),15
+28/12/2023,Recycling centre A (cars / small vans),320
+28/12/2023,Recycling centre A (medium / large vans),17
+28/12/2023,Recycling centre A (pedestrian / bicycle),15
+29/12/2023,Recycling centre A (cars / small vans),320
+29/12/2023,Recycling centre A (medium / large vans),17
+29/12/2023,Recycling centre A (pedestrian / bicycle),15
+30/12/2023,Recycling centre A (cars / small vans),320
+30/12/2023,Recycling centre A (medium / large vans),17
+30/12/2023,Recycling centre A (pedestrian / bicycle),15
+31/12/2023,Recycling centre A (cars / small vans),320
+31/12/2023,Recycling centre A (medium / large vans),17
+31/12/2023,Recycling centre A (pedestrian / bicycle),15
+04/01/2024,Recycling centre A (cars / small vans),350
+04/01/2024,Recycling centre A (medium / large vans),20
+04/01/2024,Recycling centre A (pedestrian / bicycle),10
+05/01/2024,Recycling centre A (cars / small vans),350
+05/01/2024,Recycling centre A (medium / large vans),20
+05/01/2024,Recycling centre A (pedestrian / bicycle),10
+06/01/2024,Recycling centre A (cars / small vans),350
+06/01/2024,Recycling centre A (medium / large vans),20
+06/01/2024,Recycling centre A (pedestrian / bicycle),10
+07/01/2024,Recycling centre A (cars / small vans),350
+07/01/2024,Recycling centre A (medium / large vans),20
+07/01/2024,Recycling centre A (pedestrian / bicycle),10
+08/01/2024,Recycling centre A (cars / small vans),350
+08/01/2024,Recycling centre A (medium / large vans),20
+08/01/2024,Recycling centre A (pedestrian / bicycle),10
+11/01/2024,Recycling centre A (cars / small vans),350
+11/01/2024,Recycling centre A (medium / large vans),20
+11/01/2024,Recycling centre A (pedestrian / bicycle),10
+12/01/2024,Recycling centre A (cars / small vans),350
+12/01/2024,Recycling centre A (medium / large vans),20
+12/01/2024,Recycling centre A (pedestrian / bicycle),10
+13/01/2024,Recycling centre A (cars / small vans),350
+13/01/2024,Recycling centre A (medium / large vans),20
+13/01/2024,Recycling centre A (pedestrian / bicycle),10
+14/01/2024,Recycling centre A (cars / small vans),350
+14/01/2024,Recycling centre A (medium / large vans),20
+14/01/2024,Recycling centre A (pedestrian / bicycle),10
+15/01/2024,Recycling centre A (cars / small vans),350
+15/01/2024,Recycling centre A (medium / large vans),20
+15/01/2024,Recycling centre A (pedestrian / bicycle),10
+18/01/2024,Recycling centre A (cars / small vans),350
+18/01/2024,Recycling centre A (medium / large vans),20
+18/01/2024,Recycling centre A (pedestrian / bicycle),10
+19/01/2024,Recycling centre A (cars / small vans),350
+19/01/2024,Recycling centre A (medium / large vans),20
+19/01/2024,Recycling centre A (pedestrian / bicycle),10
+20/01/2024,Recycling centre A (cars / small vans),350
+20/01/2024,Recycling centre A (medium / large vans),20
+20/01/2024,Recycling centre A (pedestrian / bicycle),10
+21/01/2024,Recycling centre A (cars / small vans),350
+21/01/2024,Recycling centre A (medium / large vans),20
+21/01/2024,Recycling centre A (pedestrian / bicycle),10
+22/01/2024,Recycling centre A (cars / small vans),350
+22/01/2024,Recycling centre A (medium / large vans),20
+22/01/2024,Recycling centre A (pedestrian / bicycle),10
+25/01/2024,Recycling centre A (cars / small vans),350
+25/01/2024,Recycling centre A (medium / large vans),20
+25/01/2024,Recycling centre A (pedestrian / bicycle),10
+26/01/2024,Recycling centre A (cars / small vans),350
+26/01/2024,Recycling centre A (medium / large vans),20
+26/01/2024,Recycling centre A (pedestrian / bicycle),10
+27/01/2024,Recycling centre A (cars / small vans),350
+27/01/2024,Recycling centre A (medium / large vans),20
+27/01/2024,Recycling centre A (pedestrian / bicycle),10
+28/01/2024,Recycling centre A (cars / small vans),350
+28/01/2024,Recycling centre A (medium / large vans),20
+28/01/2024,Recycling centre A (pedestrian / bicycle),10
+29/01/2024,Recycling centre A (cars / small vans),350
+29/01/2024,Recycling centre A (medium / large vans),20
+29/01/2024,Recycling centre A (pedestrian / bicycle),10
+01/02/2024,Recycling centre A (cars / small vans),350
+01/02/2024,Recycling centre A (medium / large vans),20
+01/02/2024,Recycling centre A (pedestrian / bicycle),10
+02/02/2024,Recycling centre A (cars / small vans),350
+02/02/2024,Recycling centre A (medium / large vans),20
+02/02/2024,Recycling centre A (pedestrian / bicycle),10
+03/02/2024,Recycling centre A (cars / small vans),350
+03/02/2024,Recycling centre A (medium / large vans),20
+03/02/2024,Recycling centre A (pedestrian / bicycle),10
+04/02/2024,Recycling centre A (cars / small vans),350
+04/02/2024,Recycling centre A (medium / large vans),20
+04/02/2024,Recycling centre A (pedestrian / bicycle),10
+05/02/2024,Recycling centre A (cars / small vans),350
+05/02/2024,Recycling centre A (medium / large vans),20
+05/02/2024,Recycling centre A (pedestrian / bicycle),10
+08/02/2024,Recycling centre A (cars / small vans),350
+08/02/2024,Recycling centre A (medium / large vans),20
+08/02/2024,Recycling centre A (pedestrian / bicycle),10
+09/02/2024,Recycling centre A (cars / small vans),350
+09/02/2024,Recycling centre A (medium / large vans),20
+09/02/2024,Recycling centre A (pedestrian / bicycle),10
+10/02/2024,Recycling centre A (cars / small vans),350
+10/02/2024,Recycling centre A (medium / large vans),20
+10/02/2024,Recycling centre A (pedestrian / bicycle),10
+11/02/2024,Recycling centre A (cars / small vans),350
+11/02/2024,Recycling centre A (medium / large vans),20
+11/02/2024,Recycling centre A (pedestrian / bicycle),10
+12/02/2024,Recycling centre A (cars / small vans),350
+12/02/2024,Recycling centre A (medium / large vans),20
+12/02/2024,Recycling centre A (pedestrian / bicycle),10
+15/02/2024,Recycling centre A (cars / small vans),350
+15/02/2024,Recycling centre A (medium / large vans),20
+15/02/2024,Recycling centre A (pedestrian / bicycle),10
+16/02/2024,Recycling centre A (cars / small vans),350
+16/02/2024,Recycling centre A (medium / large vans),20
+16/02/2024,Recycling centre A (pedestrian / bicycle),10
+17/02/2024,Recycling centre A (cars / small vans),350
+17/02/2024,Recycling centre A (medium / large vans),20
+17/02/2024,Recycling centre A (pedestrian / bicycle),10
+18/02/2024,Recycling centre A (cars / small vans),350
+18/02/2024,Recycling centre A (medium / large vans),20
+18/02/2024,Recycling centre A (pedestrian / bicycle),10
+19/02/2024,Recycling centre A (cars / small vans),350
+19/02/2024,Recycling centre A (medium / large vans),20
+19/02/2024,Recycling centre A (pedestrian / bicycle),10
+22/02/2024,Recycling centre A (cars / small vans),350
+22/02/2024,Recycling centre A (medium / large vans),20
+22/02/2024,Recycling centre A (pedestrian / bicycle),10
+23/02/2024,Recycling centre A (cars / small vans),350
+23/02/2024,Recycling centre A (medium / large vans),20
+23/02/2024,Recycling centre A (pedestrian / bicycle),10
+24/02/2024,Recycling centre A (cars / small vans),350
+24/02/2024,Recycling centre A (medium / large vans),20
+24/02/2024,Recycling centre A (pedestrian / bicycle),10
+25/02/2024,Recycling centre A (cars / small vans),350
+25/02/2024,Recycling centre A (medium / large vans),20
+25/02/2024,Recycling centre A (pedestrian / bicycle),10
+26/02/2024,Recycling centre A (cars / small vans),350
+26/02/2024,Recycling centre A (medium / large vans),20
+26/02/2024,Recycling centre A (pedestrian / bicycle),10
+29/02/2024,Recycling centre A (cars / small vans),350
+29/02/2024,Recycling centre A (medium / large vans),20
+29/02/2024,Recycling centre A (pedestrian / bicycle),10
+01/03/2024,Recycling centre A (cars / small vans),350
+01/03/2024,Recycling centre A (medium / large vans),20
+01/03/2024,Recycling centre A (pedestrian / bicycle),10
+02/03/2024,Recycling centre A (cars / small vans),350
+02/03/2024,Recycling centre A (medium / large vans),20
+02/03/2024,Recycling centre A (pedestrian / bicycle),10
+03/03/2024,Recycling centre A (cars / small vans),350
+03/03/2024,Recycling centre A (medium / large vans),20
+03/03/2024,Recycling centre A (pedestrian / bicycle),10
+04/03/2024,Recycling centre A (cars / small vans),350
+04/03/2024,Recycling centre A (medium / large vans),20
+04/03/2024,Recycling centre A (pedestrian / bicycle),10
+07/03/2024,Recycling centre A (cars / small vans),350
+07/03/2024,Recycling centre A (medium / large vans),20
+07/03/2024,Recycling centre A (pedestrian / bicycle),10
+08/03/2024,Recycling centre A (cars / small vans),350
+08/03/2024,Recycling centre A (medium / large vans),20
+08/03/2024,Recycling centre A (pedestrian / bicycle),10
+09/03/2024,Recycling centre A (cars / small vans),350
+09/03/2024,Recycling centre A (medium / large vans),20
+09/03/2024,Recycling centre A (pedestrian / bicycle),10
+10/03/2024,Recycling centre A (cars / small vans),350
+10/03/2024,Recycling centre A (medium / large vans),20
+10/03/2024,Recycling centre A (pedestrian / bicycle),10
+11/03/2024,Recycling centre A (cars / small vans),350
+11/03/2024,Recycling centre A (medium / large vans),20
+11/03/2024,Recycling centre A (pedestrian / bicycle),10
+14/03/2024,Recycling centre A (cars / small vans),350
+14/03/2024,Recycling centre A (medium / large vans),20
+14/03/2024,Recycling centre A (pedestrian / bicycle),10
+15/03/2024,Recycling centre A (cars / small vans),350
+15/03/2024,Recycling centre A (medium / large vans),20
+15/03/2024,Recycling centre A (pedestrian / bicycle),10
+16/03/2024,Recycling centre A (cars / small vans),350
+16/03/2024,Recycling centre A (medium / large vans),20
+16/03/2024,Recycling centre A (pedestrian / bicycle),10
+17/03/2024,Recycling centre A (cars / small vans),350
+17/03/2024,Recycling centre A (medium / large vans),20
+17/03/2024,Recycling centre A (pedestrian / bicycle),10
+18/03/2024,Recycling centre A (cars / small vans),350
+18/03/2024,Recycling centre A (medium / large vans),20
+18/03/2024,Recycling centre A (pedestrian / bicycle),10
+21/03/2024,Recycling centre A (cars / small vans),350
+21/03/2024,Recycling centre A (medium / large vans),20
+21/03/2024,Recycling centre A (pedestrian / bicycle),10
+22/03/2024,Recycling centre A (cars / small vans),350
+22/03/2024,Recycling centre A (medium / large vans),20
+22/03/2024,Recycling centre A (pedestrian / bicycle),10
+23/03/2024,Recycling centre A (cars / small vans),350
+23/03/2024,Recycling centre A (medium / large vans),20
+23/03/2024,Recycling centre A (pedestrian / bicycle),10
+24/03/2024,Recycling centre A (cars / small vans),350
+24/03/2024,Recycling centre A (medium / large vans),20
+24/03/2024,Recycling centre A (pedestrian / bicycle),10
+25/03/2024,Recycling centre A (cars / small vans),350
+25/03/2024,Recycling centre A (medium / large vans),20
+25/03/2024,Recycling centre A (pedestrian / bicycle),10
+28/03/2024,Recycling centre A (cars / small vans),350
+28/03/2024,Recycling centre A (medium / large vans),20
+28/03/2024,Recycling centre A (pedestrian / bicycle),10
+29/03/2024,Recycling centre A (cars / small vans),350
+29/03/2024,Recycling centre A (medium / large vans),20
+29/03/2024,Recycling centre A (pedestrian / bicycle),10
+30/03/2024,Recycling centre A (cars / small vans),350
+30/03/2024,Recycling centre A (medium / large vans),20
+30/03/2024,Recycling centre A (pedestrian / bicycle),10
+31/03/2024,Recycling centre A (cars / small vans),350
+31/03/2024,Recycling centre A (medium / large vans),20
+31/03/2024,Recycling centre A (pedestrian / bicycle),10
+04/04/2023,Recycling centre A (cars / small vans),350
+04/04/2023,Recycling centre A (medium / large vans),20
+04/04/2023,Recycling centre A (pedestrian / bicycle),10
+05/04/2023,Recycling centre A (cars / small vans),350
+05/04/2023,Recycling centre A (medium / large vans),20
+05/04/2023,Recycling centre A (pedestrian / bicycle),10
+11/04/2023,Recycling centre A (cars / small vans),350
+11/04/2023,Recycling centre A (medium / large vans),20
+11/04/2023,Recycling centre A (pedestrian / bicycle),10
+12/04/2023,Recycling centre A (cars / small vans),350
+12/04/2023,Recycling centre A (medium / large vans),20
+12/04/2023,Recycling centre A (pedestrian / bicycle),10
+18/04/2023,Recycling centre A (cars / small vans),350
+18/04/2023,Recycling centre A (medium / large vans),20
+18/04/2023,Recycling centre A (pedestrian / bicycle),10
+19/04/2023,Recycling centre A (cars / small vans),350
+19/04/2023,Recycling centre A (medium / large vans),20
+19/04/2023,Recycling centre A (pedestrian / bicycle),10
+25/04/2023,Recycling centre A (cars / small vans),350
+25/04/2023,Recycling centre A (medium / large vans),20
+25/04/2023,Recycling centre A (pedestrian / bicycle),10
+26/04/2023,Recycling centre A (cars / small vans),350
+26/04/2023,Recycling centre A (medium / large vans),20
+26/04/2023,Recycling centre A (pedestrian / bicycle),10
+02/05/2023,Recycling centre A (cars / small vans),350
+02/05/2023,Recycling centre A (medium / large vans),20
+02/05/2023,Recycling centre A (pedestrian / bicycle),10
+03/05/2023,Recycling centre A (cars / small vans),350
+03/05/2023,Recycling centre A (medium / large vans),20
+03/05/2023,Recycling centre A (pedestrian / bicycle),10
+09/05/2023,Recycling centre A (cars / small vans),350
+09/05/2023,Recycling centre A (medium / large vans),20
+09/05/2023,Recycling centre A (pedestrian / bicycle),10
+10/05/2023,Recycling centre A (cars / small vans),350
+10/05/2023,Recycling centre A (medium / large vans),20
+10/05/2023,Recycling centre A (pedestrian / bicycle),10
+16/05/2023,Recycling centre A (cars / small vans),350
+16/05/2023,Recycling centre A (medium / large vans),20
+16/05/2023,Recycling centre A (pedestrian / bicycle),10
+17/05/2023,Recycling centre A (cars / small vans),350
+17/05/2023,Recycling centre A (medium / large vans),20
+17/05/2023,Recycling centre A (pedestrian / bicycle),10
+23/05/2023,Recycling centre A (cars / small vans),350
+23/05/2023,Recycling centre A (medium / large vans),20
+23/05/2023,Recycling centre A (pedestrian / bicycle),10
+24/05/2023,Recycling centre A (cars / small vans),350
+24/05/2023,Recycling centre A (medium / large vans),20
+24/05/2023,Recycling centre A (pedestrian / bicycle),10
+30/05/2023,Recycling centre A (cars / small vans),350
+30/05/2023,Recycling centre A (medium / large vans),20
+30/05/2023,Recycling centre A (pedestrian / bicycle),10
+31/05/2023,Recycling centre A (cars / small vans),350
+31/05/2023,Recycling centre A (medium / large vans),20
+31/05/2023,Recycling centre A (pedestrian / bicycle),10
+06/06/2023,Recycling centre A (cars / small vans),350
+06/06/2023,Recycling centre A (medium / large vans),20
+06/06/2023,Recycling centre A (pedestrian / bicycle),10
+07/06/2023,Recycling centre A (cars / small vans),350
+07/06/2023,Recycling centre A (medium / large vans),20
+07/06/2023,Recycling centre A (pedestrian / bicycle),10
+13/06/2023,Recycling centre A (cars / small vans),350
+13/06/2023,Recycling centre A (medium / large vans),20
+13/06/2023,Recycling centre A (pedestrian / bicycle),10
+14/06/2023,Recycling centre A (cars / small vans),350
+14/06/2023,Recycling centre A (medium / large vans),20
+14/06/2023,Recycling centre A (pedestrian / bicycle),10
+20/06/2023,Recycling centre A (cars / small vans),350
+20/06/2023,Recycling centre A (medium / large vans),20
+20/06/2023,Recycling centre A (pedestrian / bicycle),10
+21/06/2023,Recycling centre A (cars / small vans),350
+21/06/2023,Recycling centre A (medium / large vans),20
+21/06/2023,Recycling centre A (pedestrian / bicycle),10
+27/06/2023,Recycling centre A (cars / small vans),350
+27/06/2023,Recycling centre A (medium / large vans),20
+27/06/2023,Recycling centre A (pedestrian / bicycle),10
+28/06/2023,Recycling centre A (cars / small vans),350
+28/06/2023,Recycling centre A (medium / large vans),20
+28/06/2023,Recycling centre A (pedestrian / bicycle),10
+04/07/2023,Recycling centre A (cars / small vans),350
+04/07/2023,Recycling centre A (medium / large vans),20
+04/07/2023,Recycling centre A (pedestrian / bicycle),10
+05/07/2023,Recycling centre A (cars / small vans),350
+05/07/2023,Recycling centre A (medium / large vans),20
+05/07/2023,Recycling centre A (pedestrian / bicycle),10
+11/07/2023,Recycling centre A (cars / small vans),350
+11/07/2023,Recycling centre A (medium / large vans),20
+11/07/2023,Recycling centre A (pedestrian / bicycle),10
+12/07/2023,Recycling centre A (cars / small vans),350
+12/07/2023,Recycling centre A (medium / large vans),20
+12/07/2023,Recycling centre A (pedestrian / bicycle),10
+18/07/2023,Recycling centre A (cars / small vans),350
+18/07/2023,Recycling centre A (medium / large vans),20
+18/07/2023,Recycling centre A (pedestrian / bicycle),10
+19/07/2023,Recycling centre A (cars / small vans),350
+19/07/2023,Recycling centre A (medium / large vans),20
+19/07/2023,Recycling centre A (pedestrian / bicycle),10
+25/07/2023,Recycling centre A (cars / small vans),350
+25/07/2023,Recycling centre A (medium / large vans),20
+25/07/2023,Recycling centre A (pedestrian / bicycle),10
+26/07/2023,Recycling centre A (cars / small vans),350
+26/07/2023,Recycling centre A (medium / large vans),20
+26/07/2023,Recycling centre A (pedestrian / bicycle),10
+01/08/2023,Recycling centre A (cars / small vans),350
+01/08/2023,Recycling centre A (medium / large vans),20
+01/08/2023,Recycling centre A (pedestrian / bicycle),10
+02/08/2023,Recycling centre A (cars / small vans),350
+02/08/2023,Recycling centre A (medium / large vans),20
+02/08/2023,Recycling centre A (pedestrian / bicycle),10
+08/08/2023,Recycling centre A (cars / small vans),350
+08/08/2023,Recycling centre A (medium / large vans),20
+08/08/2023,Recycling centre A (pedestrian / bicycle),10
+09/08/2023,Recycling centre A (cars / small vans),350
+09/08/2023,Recycling centre A (medium / large vans),20
+09/08/2023,Recycling centre A (pedestrian / bicycle),10
+15/08/2023,Recycling centre A (cars / small vans),350
+15/08/2023,Recycling centre A (medium / large vans),20
+15/08/2023,Recycling centre A (pedestrian / bicycle),10
+16/08/2023,Recycling centre A (cars / small vans),350
+16/08/2023,Recycling centre A (medium / large vans),20
+16/08/2023,Recycling centre A (pedestrian / bicycle),10
+22/08/2023,Recycling centre A (cars / small vans),350
+22/08/2023,Recycling centre A (medium / large vans),20
+22/08/2023,Recycling centre A (pedestrian / bicycle),10
+23/08/2023,Recycling centre A (cars / small vans),350
+23/08/2023,Recycling centre A (medium / large vans),20
+23/08/2023,Recycling centre A (pedestrian / bicycle),10
+29/08/2023,Recycling centre A (cars / small vans),350
+29/08/2023,Recycling centre A (medium / large vans),20
+29/08/2023,Recycling centre A (pedestrian / bicycle),10
+30/08/2023,Recycling centre A (cars / small vans),350
+30/08/2023,Recycling centre A (medium / large vans),20
+30/08/2023,Recycling centre A (pedestrian / bicycle),10
+05/09/2023,Recycling centre A (cars / small vans),350
+05/09/2023,Recycling centre A (medium / large vans),20
+05/09/2023,Recycling centre A (pedestrian / bicycle),10
+06/09/2023,Recycling centre A (cars / small vans),350
+06/09/2023,Recycling centre A (medium / large vans),20
+06/09/2023,Recycling centre A (pedestrian / bicycle),10
+12/09/2023,Recycling centre A (cars / small vans),350
+12/09/2023,Recycling centre A (medium / large vans),20
+12/09/2023,Recycling centre A (pedestrian / bicycle),10
+13/09/2023,Recycling centre A (cars / small vans),350
+13/09/2023,Recycling centre A (medium / large vans),20
+13/09/2023,Recycling centre A (pedestrian / bicycle),10
+19/09/2023,Recycling centre A (cars / small vans),350
+19/09/2023,Recycling centre A (medium / large vans),20
+19/09/2023,Recycling centre A (pedestrian / bicycle),10
+20/09/2023,Recycling centre A (cars / small vans),350
+20/09/2023,Recycling centre A (medium / large vans),20
+20/09/2023,Recycling centre A (pedestrian / bicycle),10
+26/09/2023,Recycling centre A (cars / small vans),350
+26/09/2023,Recycling centre A (medium / large vans),20
+26/09/2023,Recycling centre A (pedestrian / bicycle),10
+27/09/2023,Recycling centre A (cars / small vans),350
+27/09/2023,Recycling centre A (medium / large vans),20
+27/09/2023,Recycling centre A (pedestrian / bicycle),10
+03/10/2023,Recycling centre A (cars / small vans),350
+03/10/2023,Recycling centre A (medium / large vans),20
+03/10/2023,Recycling centre A (pedestrian / bicycle),10
+04/10/2023,Recycling centre A (cars / small vans),350
+04/10/2023,Recycling centre A (medium / large vans),20
+04/10/2023,Recycling centre A (pedestrian / bicycle),10
+10/10/2023,Recycling centre A (cars / small vans),350
+10/10/2023,Recycling centre A (medium / large vans),20
+10/10/2023,Recycling centre A (pedestrian / bicycle),10
+11/10/2023,Recycling centre A (cars / small vans),350
+11/10/2023,Recycling centre A (medium / large vans),20
+11/10/2023,Recycling centre A (pedestrian / bicycle),10
+17/10/2023,Recycling centre A (cars / small vans),350
+17/10/2023,Recycling centre A (medium / large vans),20
+17/10/2023,Recycling centre A (pedestrian / bicycle),10
+18/10/2023,Recycling centre A (cars / small vans),350
+18/10/2023,Recycling centre A (medium / large vans),20
+18/10/2023,Recycling centre A (pedestrian / bicycle),10
+24/10/2023,Recycling centre A (cars / small vans),350
+24/10/2023,Recycling centre A (medium / large vans),20
+24/10/2023,Recycling centre A (pedestrian / bicycle),10
+25/10/2023,Recycling centre A (cars / small vans),350
+25/10/2023,Recycling centre A (medium / large vans),20
+25/10/2023,Recycling centre A (pedestrian / bicycle),10
+31/10/2023,Recycling centre A (cars / small vans),350
+31/10/2023,Recycling centre A (medium / large vans),20
+31/10/2023,Recycling centre A (pedestrian / bicycle),10
+01/11/2023,Recycling centre A (cars / small vans),350
+01/11/2023,Recycling centre A (medium / large vans),20
+01/11/2023,Recycling centre A (pedestrian / bicycle),10
+07/11/2023,Recycling centre A (cars / small vans),350
+07/11/2023,Recycling centre A (medium / large vans),20
+07/11/2023,Recycling centre A (pedestrian / bicycle),10
+08/11/2023,Recycling centre A (cars / small vans),350
+08/11/2023,Recycling centre A (medium / large vans),20
+08/11/2023,Recycling centre A (pedestrian / bicycle),10
+14/11/2023,Recycling centre A (cars / small vans),350
+14/11/2023,Recycling centre A (medium / large vans),20
+14/11/2023,Recycling centre A (pedestrian / bicycle),10
+15/11/2023,Recycling centre A (cars / small vans),350
+15/11/2023,Recycling centre A (medium / large vans),20
+15/11/2023,Recycling centre A (pedestrian / bicycle),10
+21/11/2023,Recycling centre A (cars / small vans),350
+21/11/2023,Recycling centre A (medium / large vans),20
+21/11/2023,Recycling centre A (pedestrian / bicycle),10
+22/11/2023,Recycling centre A (cars / small vans),350
+22/11/2023,Recycling centre A (medium / large vans),20
+22/11/2023,Recycling centre A (pedestrian / bicycle),10
+28/11/2023,Recycling centre A (cars / small vans),350
+28/11/2023,Recycling centre A (medium / large vans),20
+28/11/2023,Recycling centre A (pedestrian / bicycle),10
+29/11/2023,Recycling centre A (cars / small vans),350
+29/11/2023,Recycling centre A (medium / large vans),20
+29/11/2023,Recycling centre A (pedestrian / bicycle),10
+05/12/2023,Recycling centre A (cars / small vans),350
+05/12/2023,Recycling centre A (medium / large vans),20
+05/12/2023,Recycling centre A (pedestrian / bicycle),10
+06/12/2023,Recycling centre A (cars / small vans),350
+06/12/2023,Recycling centre A (medium / large vans),20
+06/12/2023,Recycling centre A (pedestrian / bicycle),10
+12/12/2023,Recycling centre A (cars / small vans),350
+12/12/2023,Recycling centre A (medium / large vans),20
+12/12/2023,Recycling centre A (pedestrian / bicycle),10
+13/12/2023,Recycling centre A (cars / small vans),350
+13/12/2023,Recycling centre A (medium / large vans),20
+13/12/2023,Recycling centre A (pedestrian / bicycle),10
+19/12/2023,Recycling centre A (cars / small vans),350
+19/12/2023,Recycling centre A (medium / large vans),20
+19/12/2023,Recycling centre A (pedestrian / bicycle),10
+20/12/2023,Recycling centre A (cars / small vans),350
+20/12/2023,Recycling centre A (medium / large vans),20
+20/12/2023,Recycling centre A (pedestrian / bicycle),10
+26/12/2023,Recycling centre A (cars / small vans),350
+26/12/2023,Recycling centre A (medium / large vans),20
+26/12/2023,Recycling centre A (pedestrian / bicycle),10
+27/12/2023,Recycling centre A (cars / small vans),350
+27/12/2023,Recycling centre A (medium / large vans),20
+27/12/2023,Recycling centre A (pedestrian / bicycle),10
+02/01/2024,Recycling centre A (cars / small vans),350
+02/01/2024,Recycling centre A (medium / large vans),20
+02/01/2024,Recycling centre A (pedestrian / bicycle),10
+03/01/2024,Recycling centre A (cars / small vans),350
+03/01/2024,Recycling centre A (medium / large vans),20
+03/01/2024,Recycling centre A (pedestrian / bicycle),10
+09/01/2024,Recycling centre A (cars / small vans),350
+09/01/2024,Recycling centre A (medium / large vans),20
+09/01/2024,Recycling centre A (pedestrian / bicycle),10
+10/01/2024,Recycling centre A (cars / small vans),350
+10/01/2024,Recycling centre A (medium / large vans),20
+10/01/2024,Recycling centre A (pedestrian / bicycle),10
+16/01/2024,Recycling centre A (cars / small vans),350
+16/01/2024,Recycling centre A (medium / large vans),20
+16/01/2024,Recycling centre A (pedestrian / bicycle),10
+17/01/2024,Recycling centre A (cars / small vans),350
+17/01/2024,Recycling centre A (medium / large vans),20
+17/01/2024,Recycling centre A (pedestrian / bicycle),10
+23/01/2024,Recycling centre A (cars / small vans),350
+23/01/2024,Recycling centre A (medium / large vans),20
+23/01/2024,Recycling centre A (pedestrian / bicycle),10
+24/01/2024,Recycling centre A (cars / small vans),350
+24/01/2024,Recycling centre A (medium / large vans),20
+24/01/2024,Recycling centre A (pedestrian / bicycle),10
+30/01/2024,Recycling centre A (cars / small vans),350
+30/01/2024,Recycling centre A (medium / large vans),20
+30/01/2024,Recycling centre A (pedestrian / bicycle),10
+31/01/2024,Recycling centre A (cars / small vans),350
+31/01/2024,Recycling centre A (medium / large vans),20
+31/01/2024,Recycling centre A (pedestrian / bicycle),10
+06/02/2024,Recycling centre A (cars / small vans),350
+06/02/2024,Recycling centre A (medium / large vans),20
+06/02/2024,Recycling centre A (pedestrian / bicycle),10
+07/02/2024,Recycling centre A (cars / small vans),350
+07/02/2024,Recycling centre A (medium / large vans),20
+07/02/2024,Recycling centre A (pedestrian / bicycle),10
+13/02/2024,Recycling centre A (cars / small vans),350
+13/02/2024,Recycling centre A (medium / large vans),20
+13/02/2024,Recycling centre A (pedestrian / bicycle),10
+14/02/2024,Recycling centre A (cars / small vans),350
+14/02/2024,Recycling centre A (medium / large vans),20
+14/02/2024,Recycling centre A (pedestrian / bicycle),10
+20/02/2024,Recycling centre A (cars / small vans),350
+20/02/2024,Recycling centre A (medium / large vans),20
+20/02/2024,Recycling centre A (pedestrian / bicycle),10
+21/02/2024,Recycling centre A (cars / small vans),350
+21/02/2024,Recycling centre A (medium / large vans),20
+21/02/2024,Recycling centre A (pedestrian / bicycle),10
+27/02/2024,Recycling centre A (cars / small vans),350
+27/02/2024,Recycling centre A (medium / large vans),20
+27/02/2024,Recycling centre A (pedestrian / bicycle),10
+28/02/2024,Recycling centre A (cars / small vans),350
+28/02/2024,Recycling centre A (medium / large vans),20
+28/02/2024,Recycling centre A (pedestrian / bicycle),10
+05/03/2024,Recycling centre A (cars / small vans),350
+05/03/2024,Recycling centre A (medium / large vans),20
+05/03/2024,Recycling centre A (pedestrian / bicycle),10
+06/03/2024,Recycling centre A (cars / small vans),350
+06/03/2024,Recycling centre A (medium / large vans),20
+06/03/2024,Recycling centre A (pedestrian / bicycle),10
+12/03/2024,Recycling centre A (cars / small vans),350
+12/03/2024,Recycling centre A (medium / large vans),20
+12/03/2024,Recycling centre A (pedestrian / bicycle),10
+13/03/2024,Recycling centre A (cars / small vans),350
+13/03/2024,Recycling centre A (medium / large vans),20
+13/03/2024,Recycling centre A (pedestrian / bicycle),10
+19/03/2024,Recycling centre A (cars / small vans),350
+19/03/2024,Recycling centre A (medium / large vans),20
+19/03/2024,Recycling centre A (pedestrian / bicycle),10
+20/03/2024,Recycling centre A (cars / small vans),350
+20/03/2024,Recycling centre A (medium / large vans),20
+20/03/2024,Recycling centre A (pedestrian / bicycle),10
+26/03/2024,Recycling centre A (cars / small vans),350
+26/03/2024,Recycling centre A (medium / large vans),20
+26/03/2024,Recycling centre A (pedestrian / bicycle),10
+27/03/2024,Recycling centre A (cars / small vans),350
+27/03/2024,Recycling centre A (medium / large vans),20
+27/03/2024,Recycling centre A (pedestrian / bicycle),10
